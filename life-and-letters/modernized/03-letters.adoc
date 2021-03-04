@@ -413,9 +413,11 @@ Farewell.
 
 Sarah Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
-Youghal, Twelfth Month 23,rd, 1794.
+[.signed-section-context-open]
+Youghal, Twelfth Month 23rd, 1794.
 
 Your dear mother is, I think, better in health than we might expect,
 seeing how much she goes through, and the severity of the weather.
@@ -433,12 +435,16 @@ grow also in that which will make you wise unto salvation;
 and so be blessed with that which will make you, as it does her, truly rich.
 May every one of you be under the peculiar notice and regard of your heavenly Father, says
 
+[.signed-section-closing]
 Your poor but affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Elizabeth Grubb.
 
+[.signed-section-context-open]
 Cork, First Day Evening, First Month 26th, 1795.
 
 I was very glad of the receipt of your letter today,
@@ -505,10 +511,13 @@ I did not seek for something to say to you all, but one after another occurred t
 and, in the love in which I have mentioned you individually,
 I now bid you so and collectively farewell, dearly farewell.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Elizabeth Grubb.
 
+[.signed-section-context-open]
 Dublin, Fifth Month 3rd, 1795.
 
 I think I increasingly feel you near in that which "`many waters cannot
@@ -545,10 +554,13 @@ seek for ability to go up to the mountain of the Lord, to the house of the God o
 where He will teach us of His ways, and we will walk in His paths;
 for thereby shall we be enabled to fare well in Him.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 Probably to the Same.
 
+[.signed-section-context-open]
 Sligo, Third Month 15th, 1795.
 
 We have been longing to hear from you, and particularly about your dear father;
@@ -568,10 +580,13 @@ that we may obtain the prize.
 I feel more towards you than I have ability to express.
 May you farewell.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sligo, Third Month 16th, 1795.
 
 I feel so much love to you that I think it almost
@@ -599,14 +614,19 @@ let our provings be ever so great.
 May it be your experience to have your vessel so steered through every storm,
 as to be safely landed at the haven of rest at last.
 
+[.signed-section-closing]
 Dearly farewell, says your truly affectionate
 
+[.signed-section-signature]
 S.L.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Anner Mills, Fifth Month 5th, 1795.
 
+[.salutation]
 My Dear Mistress,
 
 I was very grateful for the receipt of such a kind letter as came to hand yesterday,
@@ -621,14 +641,19 @@ I heard he told somebody the mark was hit to a hair`'s breadth:
 it felt very difficult to me to give up to it, and what was said was in much weakness.
 In the fresh feeling of much affection and regard,
 
+[.signed-section-closing]
 I remain your
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To her Mother.
 
+[.signed-section-context-open]
 Dublin, Eighth Month 24th, 1795.
 
+[.salutation]
 My Endeared Mother,
 
 Having arrived here about two hours, I am willing to let you know as soon as possible,
@@ -678,14 +703,19 @@ which produces that which pleases Him who has been grievously offended,
 there may be a being made whole.
 Farewell, farewell, says the heart of
 
+[.signed-section-closing]
 Your affectionate daughter,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To her Brother.
 
+[.signed-section-context-open]
 Anner Mills, Fourth Month 29th, 1796.
 
+[.salutation]
 My Beloved Brother,
 
 My mind is very often occupied about you and your precious charge;
@@ -710,12 +740,16 @@ thought, or deed.
 I wish you would write to me in return, and tell me all you can about you.
 I may not take up more time now in this way, so farewell says
 
+[.signed-section-closing]
 Your affectionate sister,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Elizabeth Grubb.
 
+[.signed-section-context-open]
 Cork, Eighth Month 11th, 1796.
 
 It was very kind of you to write to me,
@@ -744,12 +778,16 @@ Here is all your affectionate friend has in possession at present to communicate
 but I expect you will continue to be near at times in spirit,
 if we are mercifully preserved.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Cork, Ninth Month 7th, 1796.
 
+[.salutation]
 My Dear Mistress,
 
 I did not expect, when I wrote to you last,
@@ -801,15 +839,20 @@ No one that has not been in the same spot can, I believe,
 conceive the situation of my mind; whether it is brought on by myself,
 perhaps remains to be one time or other made known.
 
+[.signed-section-closing]
 With love to all at Anner Mills, I conclude.
 Your
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Miltown, Ninth Month, 1796.
 
+[.salutation]
 My Dear Mistress,
 
 For aught I see at present, I am likely to proceed towards home tomorrow after meeting.
@@ -830,14 +873,19 @@ ought I not to leave all to Him, without prying into His secret things?
 Thus, having pretty openly told you my present situation, I may, in great sincerity,
 bid you farewell.
 
+[.signed-section-closing]
 Your affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Cork, Third Day Morning.
 
+[.salutation]
 My Dear Mistress,
 
 It has so turned out that I am here yet, contrary to my own and others`' expectation.
@@ -877,10 +925,13 @@ I cannot see the least glimpse concerning the time of my going:
 oh that I may be preserved from anything that would obstruct the spiritual sight.
 Farewell dearly, says your
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Liverpool, Fifth Month 14th, 1797.
 
 We got well here about twelve o`'clock last night; were thirty-six hours at sea.
@@ -898,6 +949,7 @@ we are at R. Benson`'s: their kindness is great.
 May you all dearly farewell; and it just arises to you, my dear,
 "`Trust in the Lord with all your heart, and lean not unto your own understanding`"
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
 To Sarah Grubb.
