@@ -1,8 +1,10 @@
 [#children, short="Address to Her Children"]
 == An Address to her Children Written at Several Different Periods.
 
+[.signed-section-context-open]
 Stoke Newington, 28th of 12th Month, 1832.
 
+[.salutation]
 My Dearly Beloved Children,
 
 Being now in the sixtieth year of my age,
@@ -78,9 +80,10 @@ a friend from Ireland took me into her family to attend her children, who were y
 there being four of them.
 This situation was as a fresh ordeal to me.
 
+[.offset]
 At one time I wrote thus--
 
-"`3rd of 6th Month, 1791.--Oh the deep distress and sore anguish of soul which I now feel!
+"`__3rd of 6th Month, 1791.__--Oh the deep distress and sore anguish of soul which I now feel!
 It is beyond expression; yet, out of the depth of my tribulation,
 have I been permitted this morning to cry unto the depth of His mercies,
 whose compassions fail not.
@@ -453,9 +456,10 @@ This, and many such sacrifices, have cost my nature much suffering;
 but I have apprehended them called for,
 as the first-fruits of all bestowed upon us by our bountiful Creator.
 
+[.offset]
 In 1818 I wrote as follows:--
 
-"`Clonmel, 25th of 6th Month.--Having for some years believed that the Lord,
+"`__Clonmel, 25th of 6th Month.__--Having for some years believed that the Lord,
 who hath a right to dispose of us as He sees meet,
 was drawing my mind to a residence in England;
 and being aware of the very great importance of such a step,
@@ -493,7 +497,7 @@ and with great solemnity, that He would make our way,
 and enable us to erect an altar to His wonderful and excellent Name,
 where He might appoint.
 
-"`28th of 6th Month.--Many times of late,
+"`__28th of 6th Month.__--Many times of late,
 have I thought on the dear Redeemer`'s condescending goodness and mercy,
 in enduring temptation for our sakes.
 It is an unspeakable consolation that we have Him, the great High Priest,
@@ -502,7 +506,7 @@ who being Himself '`touched with a feeling of our infirmities,`'
 knows how to succour us in our greatest temptations.
 Oh Lord keep me, I beseech Thee, low in thy fear.
 
-"`5th of 7th Month.--Some amongst us have given me plainly to understand,
+"`__5th of 7th Month.__--Some amongst us have given me plainly to understand,
 that they believe me to be under a delusion with respect to the
 prospect of removing with our family from this place to England.
 How then is it, that while this concern was ripening, it pleased the Lord to be with me;
@@ -532,7 +536,7 @@ and to Him I appeal, who knows that I have no motive in wishing to remove from t
 but to follow His holy leadings, to act in His counsel,
 and to prosecute my day`'s work in His fear.
 
-"`9th of 7th Month.--I assuredly believe, that as I look to Him who is almighty,
+"`__9th of 7th Month.__--I assuredly believe, that as I look to Him who is almighty,
 He will yet raise me up out of my present depressed condition;
 that He will give me to see that all things work together
 for good to those who love Him with the whole heart;
@@ -562,7 +566,7 @@ even uniting me, in the most endearing earthly bond,
 with one who has ever been a man of clean hands,
 and among the faithful has stood with singular uprightness.
 
-"`16th of 7th Month.--Again and again have we looked toward complying
+"`__16th of 7th Month.__--Again and again have we looked toward complying
 with the earnest desire of our friends to remain where we are;
 but finding no light upon it, nor feeling any rest therein,
 we have concluded to give up all, and obey our Divine Master;
@@ -570,7 +574,7 @@ and forthwith intend to prepare ourselves and our family for the journey.
 We are not without the unity and tender sympathy of a few unbiased minds,
 which proves strengthening and consoling.
 
-"`6th of 9th Month, 1818.--We had a heart-contriting farewell meeting on the First day,
+"`__6th of 9th Month, 1818.__--We had a heart-contriting farewell meeting on the First day,
 consisting of Friends of our Monthly Meeting,
 including Clonmel and Garryroan particular meetings.
 All opposition appeared to me to give way in the minds of those present,
@@ -698,11 +702,13 @@ Its value is equally known and appreciated in prosperity and in adversity.
 
 Concluded these lines 10th of 1st Month, 1833.
 
+[.signed-section-signature]
 S+++.+++ G.
 
-* * *
+[.asterism]
+'''
 
-"`7th Month, 1834.--For a number of years past it has been my lot to warn friends,
+"`__7th Month, 1834.__--For a number of years past it has been my lot to warn friends,
 and particularly in the Yearly Meeting in London,
 against a spirit of subtlety that would draw us from an
 attention to the inward manifestation of our blessed Savior,
@@ -737,7 +743,7 @@ being covered with the Almighty wing; for it is written,
 During the Yearly Meeting this spring, great was the exercise and travail of my soul,
 which produced the following effusions in my pocket-book.
 
-"`1834.--After the third sitting of the Yearly Meeting.
+"`__1834.__--After the third sitting of the Yearly Meeting.
 The appearance of things amongst us is very specious;
 an exact resemblance of what should be known, felt,
 and evidenced in the Church of Christ, through His own power, who is the second Adam,
@@ -772,7 +778,7 @@ Oh that, by full dedication of heart to the Most High,
 we may be found in their footsteps;
 even in the narrow way that leadeth to '`life everlasting.`' Amen.`"
 
-"`19th of 11th Month, 1838.--My dear children will be aware,
+"`__19th of 11th Month, 1838.__--My dear children will be aware,
 that since the date of the foregoing,
 great have been the shaking and sifting that have come upon us as a Society:
 every foundation has been tried,
@@ -814,13 +820,17 @@ and that the "`remnant of Jacob shall be as a dew`" from Him,
 "`in the midst of many people.`"
 Blessed be His adorable name!
 
+[.signed-section-signature]
 S+++.+++ G.
 
 +++[+++The following prayer was found detached from the above manuscript,
 and probably was written at Chelmsford,
 while suffering from a most distressing nervous malady.]
 
-"`Oh!
+[.embedded-content-document.prayer]
+--
+
+Oh!
 Lord God Almighty, I have again this day borne testimony to thy name, that it is good,
 and worthy to be trusted in.
 Thou knowest that I have done so renewedly, as at other times for many weeks past,
@@ -845,6 +855,9 @@ or grant me that which is sufficient--even thy grace;
 that when the moment of deliverance comes,
 I may find myself more fully united to Thee in the eternal covenant of thy light,
 thy life, thy love; and that thy great name may be exalted over all.
-Amen.`"
+Amen.
 
+--
+
+[.signed-section-signature]
 S+++.+++ G.
