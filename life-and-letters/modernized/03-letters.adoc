@@ -1,5 +1,6 @@
 == Extracts From Letters
 
+[.letter-heading]
 To Sarah Grubb.^
 footnote:[When young,
 Sarah Lynes Grubb was governess in the home of woman whose name was also Sarah Grubb.
@@ -11,8 +12,10 @@ There is a third Sarah Grubb
 who was the wife of Robert Grubb,
 and a well-known minister in the Society of Friends.]
 
+[.signed-section-context-open]
 Anner Mills, Eighth Month 9th, 1788.
 
+[.salutation]
 Dear Mistress,
 
 I can inform you the children are all well, and in spirits.
@@ -28,12 +31,16 @@ They all give their love to you and their aunt: may I ask you to accept of mine?
 
 I think to conclude, not remembering anything more now,
 
+[.signed-section-signature]
 Sarah Lynes.
 
+[.letter-heading]
 To a Friend (Probably E. Pim).
 
+[.signed-section-context-open]
 Twelfth Month 27th, 1789.
 
+[.salutation]
 My Beloved Friend,
 
 Perhaps I may tell you how I have fared this day.
@@ -58,12 +65,16 @@ I have a very bad pen, and not a steady hand,
 and it is not very easy to write intelligibly: also there is one waiting to take me home.
 I sincerely desire that you, my well-beloved friend, may fare well.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Fifth Month 3rd, 1790.
 
+[.salutation]
 My Dear Mistress,
 
 Your letter was handed me this morning.
@@ -77,14 +88,19 @@ which occasioned our reading to be rather late; however, quite unexpectedly to m
 we seemed fastened to silence after closing the book, which, in the end,
 was comfortable to my often tossed mind.
 
+[.signed-section-closing]
 Truly farewell,
 
+[.signed-section-signature]
 Sarah Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Seventh Month, 1790.
 
+[.salutation]
 My Dear Mistress,
 
 We received with pleasure your letter First day afternoon S. A. appeared.
@@ -95,12 +111,16 @@ a fountain sealed;`" but I know I often bring these times of drought on myself,
 by not keeping pure and sincere: so that, though I tell you my state, I do not complain:
 I believe it is good for me that I am afflicted.
 
+[.signed-section-closing]
 Farewell.
 
+[.signed-section-signature]
 S+++.+++ L.
 
+[.letter-heading]
 To Thomas Dobson, of Cumberland, After his Return From a Religious Visit to Ireland.
 
+[.signed-section-context-open]
 1790.
 
 In that love which many waters cannot quench, neither the floods drown, do I salute you;
@@ -159,10 +179,13 @@ Grubb who was engaged in her dear Master`'s cause in France
 and some part of Holland while you were here;
 but I must conclude, desiring that you may fare well.
 
+[.letter-heading]
 To E. Pim.
 
+[.signed-section-context-open]
 Anner Mills, Twelfth Month 16th, 1790.
 
+[.salutation]
 My Beloved Friend,
 
 Although very poorly qualified, I am desirous to comply with your request;
@@ -187,12 +210,16 @@ I think of you a great deal: I hope you are well.
 The children all give their dear love to you.
 I remember the kindness of friends to me while I was in Cork.
 
+[.signed-section-closing]
 Farewell, says
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Samuel Davis.
 
+[.signed-section-context-open]
 First Day Morning, 1791.
 
 My heart is so full towards you, beloved friend,
@@ -231,14 +258,19 @@ May we lean upon Him and trust in Him; even in that sure Rock,
 against which the very gates of hell shall never be able to prevail.
 Farewell: I must leave talking with you, as I have not more time.
 
+[.signed-section-closing]
 Your poor, but affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To her Mother.
 
+[.signed-section-context-open]
 Anner Mills, Fourth Month 29th, 1792.
 
+[.salutation]
 My Dear Mother,
 
 I had given up writing to you at this season, but now, finding another conveyance,
@@ -283,14 +315,19 @@ tell her to be sure learn the fear of the Lord who made her;
 it will teach her better wisdom than all the wisdom of this world.
 I believe I may now bid you farewell, much desiring it may be so with you.
 
+[.signed-section-closing]
 Your dutiful and truly affectionate daughter,
 
+[.signed-section-signature]
 Sarah Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Cork, Eleventh Month 19th, 1792.
 
+[.salutation]
 My Dear Mistress,
 
 It seems as though I could not tell you that I expect to be with you tomorrow,
@@ -310,12 +347,16 @@ where was a humbling sitting.
 We got safely and very quietly to Myrtle Hill, on seventh day evening.
 Your
 
+[.signed-section-signature]
 Sarah Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Myrtle Hill, Eleventh Month 23rd, 1792.
 
+[.salutation]
 My Dear Mistress,
 
 It is under deep conflicts I now address you.
@@ -341,12 +382,15 @@ Many times do I think of the dear children, and long to be with them.
 May you all farewell.
 Your
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
-A Verbal Communication of Job Scott to Sarah Lynes, When she was Living at Anner Mills,
-Near Clonmel, 1793.
+[.blurb]
+=== A Verbal Communication of Job Scott to Sarah Lynes, When she was Living at Anner Mills, Near Clonmel, 1793.
 
-"`Hold fast that which you have received--a gift from the holy anointing;
+[quote]
+____
+Hold fast that which you have received--a gift from the holy anointing;
 the enlivening influence.
 Ay, those who give up when they are young, I believe,
 enjoy more of the fat of the land than almost any one else.
@@ -373,7 +417,8 @@ It was an excellent saying of Gideon, '`I will not rule over you,
 neither shall my son rule over you;
 the Lord shall rule over you.`' It is a sad thing when any get above what they ought:
 do keep close to the Lord.
-All things are possible to them that believe: it was a noble saying.`"
+All things are possible to them that believe: it was a noble saying.
+____
 
 Oh!
 You who sees not as man sees, You know these things were spoken in your pure spirit,
@@ -381,10 +426,13 @@ which made my heart deeply feel them.
 Do fasten them therein, as nails in a sure place;
 and ever make me grateful for such favors as these.
 
+[.signed-section-signature]
 S+++.+++ L.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Anner Mills, Tenth Month 3rd, 1794.
 
 Yes, my dear mistress,
@@ -411,6 +459,7 @@ This family are well.
 Our dear love is to you all.
 Farewell.
 
+[.signed-section-signature]
 Sarah Lynes.
 
 To +++_______+++.
