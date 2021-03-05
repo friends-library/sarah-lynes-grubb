@@ -2330,8 +2330,10 @@ We are going further on the sea-coast, where are no Friends, to have some meetin
 At Tynemouth tomorrow.
 Farewell.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Warkworth, Twelfth Month 2nd, 1798.
 
 Notwithstanding it is only eleven days since I sent a few lines to your sister,
@@ -2398,10 +2400,13 @@ These have been more comfortable than the last week`'s meetings,
 for truly they were throughout more laborious than I can describe:
 we have had also several private opportunities.
 
+[.letter-heading]
 To Hannah Huntley.
 
+[.signed-section-context-open]
 Newcastle, Twelfth Month 11th, 1798.
 
+[.salutation]
 My Dear Friend H. Huntley,
 
 I want you not to suppose, that with respect to me it is, concerning you, "`out of sight,
@@ -2441,12 +2446,16 @@ Well, none are proved beyond what they can endure, through seeking after holy ai
 so may this be all our search, says your affectionate friend,
 in best wishes to all your house and friends.
 
+[.signed-section-signature]
 Sarah Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Darlington, Twelfth Month 21st, 1798.
 
+[.salutation]
 My Dear Mistress,
 
 I wish you to be assured my love is not diminished toward you and yours;
@@ -2543,14 +2552,19 @@ rather of things not relative to my movements, but really I have not.
 I hear very little that I could write about; so, in a great deal of affection,
 I must say farewell, in best desires to all the family.
 
+[.signed-section-closing]
 Once more dearly farewell.
 
+[.signed-section-signature]
 +++[+++Not signed.]
 
+[.letter-heading]
 Sarah Lynes To John Burlingham.
 
+[.signed-section-context-open]
 York, First Month 15th, 1799.
 
+[.salutation]
 My Dear Friend J. B.,
 
 Not your communication but your silence, stimulates me to use the pen a little,
@@ -2605,16 +2619,21 @@ I believe rightly so,
 and have been glad in my beloved companion`'s appearances in most of them.
 Now dearly farewell, says
 
+[.signed-section-closing]
 Your true friend,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
 Remembering, with great affection, every one of your sweet flock.
 
+[.letter-heading]
 To Samuel Hull.
 
+[.signed-section-context-open]
 York, First Month 21st, 1799.
 
+[.salutation]
 My Dear Friend S. H.,
 
 Very often of late, have you been the companion of my mind,
@@ -2656,12 +2675,16 @@ then all will be well.
 This is my desire for my absent friends, with my own soul.
 In this, farewell.
 
+[.signed-section-closing]
 Your truly affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 York, First Month 26th, 1799.
 
 Perhaps it is a low time with you--a time wherein you may be ready to say,
@@ -2703,7 +2726,7 @@ I should be glad to know as much of things of this nature as is proper to write.
 My mind is many times sorrowful about Ireland: and how is it among Friends?
 Are they increasingly of one heart and one mind?
 
-28th.--Yesterday being First day, we were again with Friends in the morning:
+_28th._--Yesterday being First day, we were again with Friends in the morning:
 my A. B. was silent; I was not,
 although this silence had been my lot for ten meetings before, not all successively.
 We had a very large public meeting here last evening,
@@ -2749,8 +2772,10 @@ leaving all to Him who is omnipotent.
 Most affectionately thus do I commend you to Him, with my own soul, my endeared friend,
 and say farewell.
 
+[.letter-heading]
 To one of Sarah Grubb`'s Children.
 
+[.signed-section-context-open]
 Sheffield, Third Month 17th, 1799.
 
 Your late remembrance of me in the epistolary way is grateful.
@@ -2791,10 +2816,13 @@ believing it was not of myself, in which, indeed, "`dwells no good thing.`"
 Well, my dear, with a heart warm with affection, I most tenderly say,
 in the best sense of the word, farewell.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, Seventh Month 1st, 1799.
 
 After wading through exercise in both meetings, to get at the pure life,
@@ -2875,7 +2903,10 @@ and lifted up my voice like a trumpet,
 to show this people their transgressions--the house of Jacob their sins.
 You have made me a comforter to the comfortless and the weak.
 
-'`For all I bless thee, most for the severe.`'
+[verse]
+____
+For all I bless thee, most for the severe.
+____
 
 I am now under a sense of being helpless, as the worm in the dust, without You!
 Oh keep me here continually, and be my all in all.
@@ -2884,8 +2915,10 @@ Amen.`"
 Thus do I also commend you to the inexhaustible and unmixed Source of sufficiency,
 and say dearly farewell, in much love.
 
+[.letter-heading]
 To one of Sarah Grubb`'s Children.
 
+[.signed-section-context-open]
 London, Seventh Month 24th, 1799.
 
 It may perhaps appear long that you have looked for a compliance with your request,
@@ -2920,12 +2953,16 @@ belonging to Gracechurch Street Meeting.
 It seems nearly time to say farewell for the present,
 which I do in more tender regard than my pen will set forth.
 
+[.signed-section-closing]
 Your friend,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, Ninth Month 23rd, 1799.
 
 I am diligent in getting to my own meeting, but it takes a deal of time,
@@ -2969,10 +3006,13 @@ and long to have an interview with you when awake, but that must be left;
 so in commending you to the all-wise Disposer of events, with myself,
 I take my leave at present.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Stepney Causeway, Tenth Month 2nd, 1799.
 
+[.salutation]
 My Dear Friend Sarah Grubb,
 
 I have long wished to manifest my continued, undiminished regard you-ward,
@@ -3040,6 +3080,7 @@ oh! may He be to you and many others among you (to whom
 I feel flowings of love) the source of all-sufficiency.
 Amen, says your affectionately
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
 Thomas Scattergood to Sarah Lynes.
