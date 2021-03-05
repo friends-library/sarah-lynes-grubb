@@ -1002,8 +1002,10 @@ May you all dearly farewell; and it just arises to thee, my dear,
 [.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 London, Sixth Month, 1797.
 
 I feel not satisfied, my dear mistress,
@@ -1032,12 +1034,16 @@ and be made perfect in Jesus Christ, the great and holy pattern in all things:
 very dearly in Him mayest thou, and may you all, farewell.
 Thy
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To one of Sarah Grubb`'s Children.
 
+[.signed-section-context-open]
 London, Sixth Month 22nd, probably 1797.
 
+[.salutation]
 My Dear +++_______+++,
 
 I am much obliged by thy intelligent letter.
@@ -1068,10 +1074,13 @@ even as they may increase for your sanctification.
 My heart salutes you individually.
 Dearly farewell,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Elizabeth Grubb.
 
+[.signed-section-context-open]
 London, Seventh Month, 1797, First Day.
 
 It is in my heart to address thee, my dear,
@@ -1135,15 +1144,17 @@ Assure dear Hannah, with as much affection as I am capable of,
 that I cannot at present think it is the design of the Great Shepherd of His own sheep,
 this separation should be without its own peculiar use to us.
 
-Second Day Night.--Thomas Scattergood has returned from Uxbridge,
+_Second Day Night._--Thomas Scattergood has returned from Uxbridge,
 where he has been ill of a nervous fever.
 This letter was omitted to be sent yesterday, and I have nothing more to say,
 save that poor Thomas Scattergood has been very ill all night.
 I am just going to meeting; my poor mind, yesterday and today, peculiarly tried;
 but unto whom shall we go at such times, but to Him who hath the words of eternal life?
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, Eighth Month 15th, 1797.
 
 I hardly know how to apologise for not writing before,
@@ -1205,10 +1216,13 @@ and afterwards somebody had rightly turned up as a companion.
 He said, "`by keeping to thy gift, and being helped through this journey,
 it may make thee stronger for the next;`" and he expected I should be helped through.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Buckingham, Eleventh Month 4th, 1797.
 
+[.salutation]
 My Dear Mistress,
 
 You have perhaps heard of the way in which I now tread--a way which I knew not; a way,
@@ -1256,8 +1270,10 @@ we had a very satisfactory opportunity, which she received well,
 and was very still while I was speaking.
 +++[+++Part of the letter missing here.]
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Banbury, Eleventh Month 20th, 1797.
 
 Yesterday thy lively and instructive epistle of Eighth Month came to hand,
@@ -1338,12 +1354,16 @@ in His inscrutable wisdom.
 Farewell in the Lord thy God; may He hide thee in the hollow of His hand,
 and divest thee of all slavish fear, saith the heart of
 
+[.signed-section-closing]
 Thy affectionate, though tried friend,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Birmingham, Twelfth Month 4th, 1797.
 
 Notwithstanding it is not long since I wrote to your family,
@@ -1385,10 +1405,13 @@ to get the town hall at Oxford, to hold a meeting;
 but they compared it to admitting the enemy into their fortifications:
 I suppose it would hold several thousands.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Birmingham, Twelfth Month 12th, 1797.
 
+[.salutation]
 My Very Dear Mistress,
 
 Yesterday I received thy valuable epistle,
@@ -1475,14 +1498,19 @@ and of desire for you all, particularly for thee:
 and hope thou wilt remember me still.
 Dearly all farewell.
 
+[.signed-section-closing]
 Thy truly affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Birmingham, Third Month 5th, 1798.
 
+[.salutation]
 My Very Dear Mistress,
 
 My mind is much with thee and thine in sincere affection, and I trust, at times,
@@ -1559,14 +1587,19 @@ but I confess myself not equal to the expression of what my mind feels for you;
 in which I bid you farewell,
 hoping it originates in something that I could not of myself manufacture.
 
+[.signed-section-closing]
 Thy sincerely affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 John Burlingham to his Wife.
 
+[.signed-section-context-open]
 Dudley, Fourth Month 26th, 1798.
 
+[.salutation]
 My Dear,
 
 Although my brother is intended to be the bearer of this,
@@ -1634,14 +1667,19 @@ Many hundreds could not get in.
 I believe it was a favored season; her mind pretty comfortably relieved,
 but she is withal, so worn down, she concludes to rest today.
 
+[.signed-section-closing]
 I conclude in haste, and remain
 
+[.signed-section-closing]
 Thy affectionate husband,
 
+[.signed-section-signature]
 John Burlingham.
 
+[.letter-heading]
 Sarah Lynes To +++_______+++.
 
+[.signed-section-context-open]
 Dudley, Fourth Mouth 29th, 1798.
 
 Ever since I received thy letter of 9th instant, I have longed to reply,
@@ -1672,9 +1710,11 @@ feeling with her cannot by me be fully expressed.
 I fear she hath again been anxious in not hearing from me:
 it is not a want of inclination, but I may say,
 
-"`How can my pen portray the deep distress,
-
-How paint the anguish of a heart that bled,`" etc.
+[verse]
+____
+How can my pen portray the deep distress,
+How paint the anguish of a heart that bled, etc.
+____
 
 Because of these most trying feelings of late,
 I could not tell you how much I remembered you, even through it all.
@@ -1721,6 +1761,7 @@ It is the language of my spirit, "`Great and marvelous are thy works,
 Lord God Almighty,`" etc.
 Dearly farewell in the unmixed, inexhaustible source of all-sufficiency.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
 We return to Birmingham, and bonds and afflictions seem to await me everywhere.
@@ -1729,10 +1770,13 @@ Oh!
 He is great, and greatly to be praised.
 His is the kingdom, the power, and the glory, forever.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To one of Sarah Grubb`'s Children.
 
+[.signed-section-context-open]
 London, Fifth Month 25th, 1798.
 
 I feel disposed to endeavor to tell thee a little
@@ -1786,12 +1830,16 @@ as well in health as when with you.
 I lately lost my voice, but have got it again.
 Farewell.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Friends of the North Monthly Meeting, Warwickshire.
 
+[.signed-section-context-open]
 Sixth Month 10th, 1798.
 
+[.salutation]
 Dear Friends,
 
 In the fresh feeling of that life and power which first gathered us to be a people,
@@ -1860,12 +1908,16 @@ quickening influence; so will they go forth and "`grow up as calves of the stall
 desiring that, by His witness in yourselves, you may be able to know what part of these,
 lines belong to you as individuals.
 
+[.signed-section-closing]
 Your true friend,
 
+[.signed-section-signature]
 Sarah Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Uxbridge, Sixth Month 16th, 1798.
 
 I want to repeat the assurance of my continued heartfelt solicitude for you,
@@ -1910,12 +1962,16 @@ I feel many of you as epistles written in my heart.
 The God of all true succour be with you, now and forever, saith my spirit,
 bearing up in every exercise; even so, Amen.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Nottingham, Seventh Month 14th, 1798.
 
+[.salutation]
 My Very Dear Mistress,
 
 It hath been in my heart, for many days past,
@@ -2013,16 +2069,22 @@ one in the morning, the other in the evening.
 Friends think our having been so exposed today, will bring very many to us tomorrow:
 we know we are nothing out of holy help, so must leave all, if we can, to this power.
 
+[.signed-section-closing]
 Dearly farewell all, as if named,
 
+[.signed-section-closing]
 Thy truly affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 John Burlingham to his Wife.
 
+[.signed-section-context-open]
 Nottingham, Seventh Month 16th, 1798.
 
+[.salutation]
 My Dear,
 
 The seventh was a memorable day.
@@ -2108,14 +2170,19 @@ Various circumstances seem to rivet me to S. L. and A. B. at present.
 I hope this journey may do instead of my usual recruit at the sea-side.
 I have much wished it might: I had rather be thus employed.
 
+[.signed-section-closing]
 Thy affectionate husband,
 
+[.signed-section-signature]
 John Burlingham.
 
+[.letter-heading]
 Sarah Lynes to Hannah Burlingham.
 
+[.signed-section-context-open]
 Sherburn, Eighth Month 3rd, 1798.
 
+[.salutation]
 My Dear Friend,
 
 I have thought of writing to thee many a time since
@@ -2162,12 +2229,16 @@ I believe Best Guidance is near him.
 Now with dear love I conclude.
 Love and a kiss to the children.
 
+[.signed-section-closing]
 Thy sincere friend,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 Sarah Lynes To John Burlingham.
 
+[.signed-section-context-open]
 Whitby, Ninth Month 10th, 1798.
 
 I was glad in thy return, and I was sorry: glad,
@@ -2185,12 +2256,16 @@ Mayest thou so abide under all,
 as to know the grace thou hast received to be thy sufficiency in this work;
 and oh! may I! I was sorry in parting with thee, as a kind helper and dear friend.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sunderland, Eleventh Month 3rd, 1798.
 
 Truly I have undergone many secret cogitations on your account:
@@ -2245,11 +2320,13 @@ Do, when thou canst, give me a few lines, even if it should be like thy last,
 without beginning or ending, or rather without address or signature.
 Once more wishing thee God speed,
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
-Same date.--My dearly beloved H. G., how precious are thy few words to me:
+_Same date._--My dearly beloved H. G., how precious are thy few words to me:
 how do I long it may be as thou sayest, "`that neither heights, nor depths,`" etc.,
 may ever be able to separate us from the love we are partakers of, one with another.
 I am very well, and often very happy.
@@ -6481,10 +6558,8 @@ in parting with our friends;
 otherwise our poor minds could scarcely have sustained the trial.
 I have frequently thought of S. R. G.`'s poem,
 
-"`How can my pen portray the deep distress,
-
-How paint the anguish of a heart that bled?`"
-etc.
+__"`How can my pen portray the deep distress,
+How paint the anguish of a heart that bled?`"__ etc.
 
 Even in getting to my dear friends and old acquaintances here,
 I still feel like a stranger in a strange land with my family;
