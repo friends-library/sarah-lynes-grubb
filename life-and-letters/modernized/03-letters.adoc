@@ -3914,8 +3914,7 @@ He finds his gratitude increase,
 For past protection--present peace.
 And e`'en if future troubles rise
 In prospect to his watchful eyes,
-// lint-disable modernize-words "imprest" (for rhyming sake)
-With humble confidence imprest,
+With humble confidence impre+++st+++,
 (Tried armour of the faithful breast)
 The threatening future fails of force
 T`'avert him from his steady course.
