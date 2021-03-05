@@ -1612,7 +1612,6 @@ it is not a want of inclination, but I may say,
 [verse]
 ____
 How can my pen portray the deep distress,
-
 How paint the anguish of a heart that bled, etc.
 ____
 
@@ -6458,10 +6457,8 @@ in parting with our friends;
 otherwise our poor minds could scarcely have sustained the trial.
 I have frequently thought of S. R. G.`'s poem,
 
-"`How can my pen portray the deep distress,
-
-How paint the anguish of a heart that bled?`"
-etc.
+__"`How can my pen portray the deep distress,
+How paint the anguish of a heart that bled?`"__ etc.
 
 Even in getting to my dear friends and old acquaintances here,
 I still feel like a stranger in a strange land with my family;
