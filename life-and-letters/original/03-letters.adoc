@@ -3087,10 +3087,13 @@ Amen, saith thine affectionately
 [.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 Thomas Scattergood to Sarah Lynes.
 
+[.signed-section-context-open]
 Uxbridge, Eleventh Month 6th, 1799.
 
+[.salutation]
 Dear Sarah,
 
 I think thou and I have not exchanged letters since we were in Ireland together.
@@ -3120,10 +3123,13 @@ and then thou wilt receive the reward which the Lord gives to them that know Him
 My love to thy mother and sister, and accept the love and sympathy of thy poor,
 exercised brother in bonds,
 
+[.signed-section-signature]
 T+++.+++ Scattergood.
 
+[.letter-heading]
 Sarah Lynes To +++_______+++.
 
+[.signed-section-context-open]
 London, Second Month 19th, 1800.
 
 I believe my pen had been employed before now,
@@ -3152,7 +3158,7 @@ by its gentleness as well as constancy; and oh! saith my soul, may it never leav
 but succor still every virtue, to the glory of Him who is worthy of glory,
 and to thy own consolation in Him.
 
-24th.--I was interrupted in this letter by going to a public meeting,
+_24th._--I was interrupted in this letter by going to a public meeting,
 which Thomas Colley of Sheffield appointed; he has had several in this city,
 being here for that end.
 Thomas Scattergood is also here,
@@ -3193,10 +3199,13 @@ let the suffering be what it may.
 I must bid thee now farewell; which I do with a heart warmed, even while I write,
 with that which breathes undefiled rest and peace in Him who is holy.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Settle, Fourth Month 5th, 1800.
 
+[.salutation]
 My Beloved Friend Sarah Grubb,
 
 Very often have I wished to write thee a few lines, for many months back.
@@ -3229,7 +3238,7 @@ I have been solicited for marriage by a young man of London.
 He hath got his final answer; my judgment being clear, that I might not encourage him.
 He is of good character, and in good business.
 
-Leeds, 7th.--This is an odd sort of letter,
+_Leeds, 7th._--This is an odd sort of letter,
 but hope thou wilt receive it as the best written testimonial of mine endeared regard,
 that my shallow capacity is at present equal to produce.
 I write so little in general,
@@ -3246,10 +3255,13 @@ I believe I shall remember you at your approaching Quarterly and Yearly Meetings
 May everlasting goodness and mercy be with you.
 Amen.
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To Hannah Grubb.
 
+[.signed-section-context-open]
 1800.
 
 My dear Ann Baker`'s marriage was attended with sweetness.
@@ -3286,8 +3298,10 @@ I felt the incomes of love and life so strong, while thus, as it were,
 unbent with my dear Ann,
 that we reckoned it might be intended to answer the purpose of the forty days`' food.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Carlisle, Ninth Month 8th, 1800.
 
 Somehow thou hast been uncommonly the companion of my mind for several days past,
@@ -3394,10 +3408,13 @@ I feel pretty well on the whole, though I have no appetite, and am weak;
 but in expectation of some sleep curing me.
 I don`'t know what would become of me many a time, were it not for "`balmy sleep.`"
 
+[.letter-heading]
 To Ann Pumphrey +++[+++formerly Ann Baker].
 
+[.signed-section-context-open]
 Allanby, Ninth Month 13th, 1800.
 
+[.salutation]
 My Dear A. P.,
 
 We have wrought as hard lately,
@@ -3424,14 +3441,19 @@ Thy S. L. cannot plead excuse in these engagements,
 but every sphere in life demands our time and talents,
 where we are solicitous to move rightly in them.
 
+[.signed-section-closing]
 Thy very affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Kendal, Tenth Month 24th, 1800.
 
+[.salutation]
 My Dear A. P.,
 
 It is with difficulty that I can retire to address thee in this way,
@@ -3464,12 +3486,16 @@ yet this has not excused me, as they (my friends) cannot take the burden.
 I am called upon to go out to tea.
 I must send my love in a bundle, and leave thee to unpack and distribute it.
 
+[.signed-section-closing]
 Thy affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Blackburn, Eleventh Month 20th, 1800.
 
 Since my last we have had many ups and downs,
@@ -3496,10 +3522,13 @@ that it is not right for me to expect to convert sinners,
 or to do any more in thus laboring, than to acquit mine own conscience of condemnation;
 if this may be the happy issue, surely it ought, surely it will satisfy.
 
+[.letter-heading]
 To Sarah Grubb.
 
+[.signed-section-context-open]
 Liverpool, Twelfth Month 19th, 1800.
 
+[.salutation]
 My Dear Friend Sarah Grubb,
 
 I sit down once more to assure thee, from my own hand,
@@ -3564,12 +3593,16 @@ is not dissolved by distance or time, in the separation of the body.
 Farewell, my dear friend; may the holy Arm of Omnipotence surround thee and thine,
 in this day of perplexity and treading down, saith
 
+[.signed-section-closing]
 Thy affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stepney Causeway, First Month 17th, 1801.^
 footnote:[Written about the time that many seceded from "`Friends`" in Ireland.]
 
@@ -3630,8 +3663,10 @@ upon any other ground than that it was clearly in Divine wisdom for me:
 with this clearness, I apprehend we are not likely to mistake the person or place,
 but rather to be assured fully in these points.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stepney Causeway, Third Month 1st, 1801.
 
 This afternoon meeting has been, to my exercised mind, a season of renewed consolation.
@@ -3640,8 +3675,10 @@ before the precious virtue of the heavenly life filled my soul,
 which continued most of the time; so that my heart thanked God, and took courage,
 in a resolution to trust in Him, and endeavor to do His will.
 
+[.letter-heading]
 To S. and A. Pumphrey.
 
+[.signed-section-context-open]
 Stepney Causeway, Sixth Month 4th, 1801.
 
 Oh! my much loved friends, my heart aches with the thought that we are now separated;
@@ -3657,10 +3694,13 @@ hoping that we shall be mercifully preserved from erring greatly.
 Thus I seek to console myself in the present instance,
 and be assured my spirit is with you, and will be so.
 
+[.letter-heading]
 To her Mother.
 
+[.signed-section-context-open]
 Bristol, Ninth Month 18th, 1801.
 
+[.salutation]
 My Beloved Parent,
 
 I wrote thee such a hasty scrawl the other day,
@@ -3686,14 +3726,19 @@ at present; they are continually coming in.
 Although I have written as fast as I could, I have met with many interruptions.
 This is not much better than the last.
 
+[.signed-section-closing]
 I am
 
+[.signed-section-closing]
 Thy truly affectionate daughter,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Congersbury, Ninth Month 21st, 1801.
 
 Since my last letter, I have been traveling on pretty much in the old way,
@@ -3716,8 +3761,10 @@ is almost in the state of David, when he said,
 "`Surely I have behaved and quieted myself as a child that is weaned of his mother:
 my soul is even as a weaned child.`"
 
+[.letter-heading]
 To Ann Pumphrey.
 
+[.signed-section-context-open]
 Plymouth, Tenth Month 11th, 1801.
 
 +++[+++After alluding to the death of a friend.]--These are awful mementoes, yet,
@@ -3739,8 +3786,10 @@ if their sufferings are in the will of Heaven, and they look to Him,
 without whose notice "`not a sparrow falleth to the ground,`" He will keep them in all,
 and deliver them out of all.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Perran Walk, Tenth Month 31st, 1801.
 
 Now I may say a little of our travels.
@@ -3778,10 +3827,13 @@ George Fox) and who owns, or has a considerable share in copper mines here.
 I suppose about one hundred and fifty people collected on the occasion.
 They seem to be much of the description I have hinted at.
 
+[.letter-heading]
 To Ann Pumphrey.
 
+[.signed-section-context-open]
 Falmouth, Eleventh Month 13th, 1801.
 
+[.salutation]
 My Dear A. P.,
 
 It is pleasant to reflect on the likelihood of thy
@@ -3816,12 +3868,16 @@ in which they evidently place so much confidence.
 
 My heart salutes thee in much love and religious fellowship.
 
+[.signed-section-closing]
 Thy truly affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Falmouth, Eleventh Month 21st, 1801.
 
 For several days past thou hast been my companion in meetings and out of meetings; yea,
@@ -3901,9 +3957,11 @@ No rest for me yet, but I am, at this moment, sensible of that which, in some de
 can say, "`Not my will but Thine, oh Father, be done.`"
 I have every reason to resolve--
 
-"`My life (if Thou preserv`'st my life)
-
-Thy sacrifice shall be,`"
+[verse]
+____
+My life (if Thou preserv`'st my life)
+Thy sacrifice shall be,
+____
 
 for He hath caused "`Jordan to be driven back,
 and the mountains to skip,`" when I was without might,
@@ -3929,10 +3987,13 @@ it is the means of strengthening the union with uncreated Purity;
 of preparing to join the heavenly host, where peace reigns triumphant,
 eternally triumphant, when these few moments terminate!
 
+[.letter-heading]
 Joseph Gurney Bevan to Sarah Lynes.
 
+[.signed-section-context-open]
 Newington, Twelfth Month 5th, 1801.
 
+[.salutation]
 Dear Sarah,
 
 I believe thou mayest rest assured that I do not forget thee,
@@ -3985,14 +4046,19 @@ ____
 If thou canst pick anything out of these lines thou art welcome.
 Well, fare thee well at present.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ G. Bevan.
 
+[.letter-heading]
 Sarah Lynes To Ann Pumphrey.
 
+[.signed-section-context-open]
 Melksham, First Month 20th, 1802.
 
+[.salutation]
 My Dear A. P.,
 
 My love toward thee is undiminished,
@@ -4028,14 +4094,19 @@ I have been almost worn out; my animal spirits much exhausted;
 but a day or two mostly recruits me.
 We are to hold a public meeting here this forenoon, one at Devizes this evening, etc. etc.
 
+[.signed-section-closing]
 Thy truly affectionate
 
-S+++.+++ Lines.
+[.signed-section-signature]
+S+++.+++ Lynes.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Stepney Causeway, Fourth Month 20th, 1802.
 
+[.salutation]
 My Dear A. P.,
 
 I find it impracticable to visit all my beloved absent friends by letter,
@@ -4054,14 +4125,19 @@ I think, were it not for the brook by the way, in my late engagement of a simila
 I had many a time fainted.
 We are mercifully dealt with.
 
+[.signed-section-closing]
 I am thy truly affectionate
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Stepney Causeway, Seventh Month 14th, 1802.
 
+[.salutation]
 My Dear A. P.,
 
 Think not that thy S. L. is less mindful of thee than heretofore,
@@ -4092,12 +4168,16 @@ They have furnished me with expressions of their concurrence,
 and my credentials breathe forth desires for my safety.
 Farewell.
 
+[.signed-section-closing]
 Thy
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Youghal, Eleventh Month 27th, 1802.
 
 We have got through a large public meeting here,
@@ -4123,10 +4203,13 @@ This appears to me to be an unspeakable privilege.
 Let us, my dear friend, strive to lay our secret cogitations, our cares, fears, doubts,
 and sorrows, in His holy bosom.
 
+[.letter-heading]
 Joseph G. Bevan To Sarah Lynes.
 
+[.signed-section-context-open]
 Stoke Newington, Twelfth Month 4th, 1802.
 
+[.salutation]
 Dear Sarah,
 
 Though I believe I love thee as much as usual, I don`'t seem to have much to say to thee;
@@ -4158,14 +4241,19 @@ and how it fares with thee.
 I am sure (as far as we can well in absence, without special revelation,
 be sure) that thou dost continue to believe me
 
+[.signed-section-closing]
 Thy very affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ G. Bevan.
 
+[.letter-heading]
 Sarah Lynes To Ann Pumphrey.
 
+[.signed-section-context-open]
 Clonmel, Twelfth Month 15th, 1802.
 
+[.salutation]
 My Dear Ann,
 
 The cheering account of thy family which thy last paper messenger brought,
@@ -4205,14 +4293,19 @@ Farewell, my dear, farewell.
 It does me good to feel so much attached to thee.
 Thy dear S. will take a part.
 
+[.signed-section-closing]
 I am thy affectionate friend in gospel bonds,
 
+[.signed-section-signature]
 S+++.+++ Lynes.
 
+[.letter-heading]
 To her Mother.
 
+[.signed-section-context-open]
 Dublin, First Month 2nd, 1803.
 
+[.salutation]
 My Beloved Mother,
 
 I left Clonmel last sixth day week,
@@ -4265,12 +4358,16 @@ I have written my beloved mother a long letter,
 and may now close it with bidding thee and thine most dearly farewell,
 and am Thy truly affectionate daughter,
 
+[.signed-section-signature]
 Sarah.
 
+[.letter-heading]
 John Grubb To Hannah Pace (formerly Hannah Lynes.)
 
+[.signed-section-context-open]
 Clonmel, Fifth Month 28th, 1803.
 
+[.salutation]
 My Dear Friend,
 
 It is, I trust, with a mind bowed with awe and fear,
@@ -4306,14 +4403,19 @@ laid the foundation of a closer connection and more intimate acquaintance,
 may continue near for our help and preservation, in and through every situation in life;
 and finally give us an inheritance amongst those that are sanctified.
 
+[.signed-section-closing]
 I am
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 John Grubb.
 
+[.letter-heading]
 Sarah Lynes To John Grubb.
 
+[.signed-section-context-open]
 London, Sixth Month 29th, 1803.
 
 It is a comfort to believe that we, and the matter that engages our deep attention,
@@ -4330,8 +4432,10 @@ when we felt the sweet influence of our heavenly Father,
 like a sanction to our attachment, may, from time to time,
 be recurred to for our mutual and united strengthening.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Isleworth, Seventh Month 9th, 1803.
 
 Sometimes I think it would be a want of right confidence in me,
@@ -4350,8 +4454,10 @@ he desired I would make as good a wife as +++_______+++. I thought
 I would do my best in filling up the important station,
 but felt, as I often do, a fear of falling short.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Isleworth, Seventh Month 16th, 1803.
 
 I seem now almost as if already in Clonmel,
@@ -4377,8 +4483,10 @@ pleased Divine Goodness in this manner a little to replenish my soul,
 and fill it with holy desires,
 yet I did not intend to be quite so copious in the acknowledgment of it.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Uxbridge, Seventh Month 20th, 1803.
 
 Ah! my endeared friend,
@@ -4392,8 +4500,10 @@ alone by resignation to the Divine will--the religion of Jesus Christ.
 Alas! what would, what could a union like that which we now hope for,
 be to either of us without such a possession?
 
+[.letter-heading]
 John Grubb To His Sister Elizabeth Grubb.
 
+[.signed-section-context-open]
 Isleworth, Ninth Month 9th, 1803.
 
 The meeting yesterday was crowded.
@@ -4428,12 +4538,16 @@ and for the sake of the precious charge committed to my care,
 I believe I shall not be willing to go to sea with a contrary wind.
 My dear love to each of you, and I am
 
+[.signed-section-closing]
 Thy truly affectionate brother,
 
+[.signed-section-signature]
 John Grubb.
 
+[.letter-heading]
 Sarah Grubb to her Husband.
 
+[.signed-section-context-open]
 Clonmel, First Month 4th, 1804.
 
 My first letter this year is to thee, my dear.
@@ -4444,8 +4558,10 @@ He hath, I trust, instructed us, individually and unitedly,
 that He ought to have our affections primarily, and that He is a rich rewarder.
 Surely His goodness and mercy will follow thee, and repay thy simple dedication.
 
+[.letter-heading]
 To Elizabeth Grubb.
 
+[.signed-section-context-open]
 Myrtle Hill, Second Month 25th, 1804.
 
 I think it would have done thee good to have been with us
@@ -4465,8 +4581,10 @@ it was held in a mill.
 That, and the meeting at Passage, cost me a great deal of previous suffering;
 but I have as much satisfaction now in reflecting on them as any others, I think.
 
+[.letter-heading]
 To Candia Burlingham.
 
+[.signed-section-context-open]
 London, Sixth Month 1st, 1804.
 
 It afforded me considerable satisfaction to see thee at Worcester,
@@ -4493,15 +4611,20 @@ I know thou believes it to be so, therefore mayest thou follow after it, saith m
 I believe this has been thought, by some solid Friends, to be a favored meeting,
 wherein the young people were not forgotten.
 
+[.signed-section-closing]
 Farewell, my dear.
 I am, in much sincere regard,
 
+[.signed-section-closing]
 Thy friend,
 
-Sarah Grubb,
+[.signed-section-signature]
+Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Youghal, Ninth Month 9th, 1805.
 
 I have thought, what do any of us want more than rest--perfect rest?
@@ -4512,10 +4635,13 @@ even by the privation of anything not eternal in duration; yes, health itself.
 So let us be encouraged in thankfulness of heart
 to press forward toward the place of our rest.
 
+[.letter-heading]
 To Ann Pumphrey.
 
+[.signed-section-context-open]
 Clonmel, Twelfth Month 2nd, 1805.
 
+[.salutation]
 My Beloved A. P.,
 
 It is with peculiar satisfaction that I observe, from time to time,
@@ -4548,12 +4674,16 @@ for she is of a pretty great age; she has lived an honorable life,
 and brought up many worthy children.
 Farewell my dear, dear creature.
 
+[.signed-section-signature]
 S+++.+++ G.
 
+[.letter-heading]
 John Grubb to Stanley Pumphrey.
 
+[.signed-section-context-open]
 Third Month 9th, 1806.
 
+[.salutation]
 Dear Friend Stanley Pumphrey,
 
 My dear Sarah has proposed my occupying a part of
@@ -4579,14 +4709,19 @@ and acquaintance with that power, that did so much for her;
 that so we may experience something of what the Apostle did,
 that in all things and everywhere, we are instructed.
 
+[.signed-section-closing]
 Farewell saith thy friend,
 
+[.signed-section-signature]
 J+++.+++ Grubb.
 
+[.letter-heading]
 Joseph G. Bevan to Sarah Grubb, Then Traveling in Scotland.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month 12th, 1807.
 
+[.salutation]
 Dear Sarah,
 
 It is time for me to notice thy welcome letter,
@@ -4608,14 +4743,19 @@ So be it for you both; for, in going along with my pen,
 I wish thy husband to partake of any encouragement to perseverance, if any I can give.
 With love to you both,
 
+[.signed-section-closing]
 I remain
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ G. Bevan.
 
+[.letter-heading]
 Sarah Grubb To Anne Grubb.
 
+[.signed-section-context-open]
 Arbroath, Fourth Month 1st, 1807.
 
 I have no doubt but thou feels for us in this our separation from you,
@@ -4646,8 +4786,10 @@ Oh! my dear sister,
 I do not wonder that S. G. should call this state a "`harbour,`"
 for how tossed and tried we are without it.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Aberdeen, Fourth Month 15th, 1807.
 
 John told my brother Joseph of our setting about the little family visit at Kinmuck;
@@ -4700,10 +4842,13 @@ when he was called to surrender his only son.
 My heart is often more deeply affected in our present circumstances, than I choose,
 or think would be right to suffer to appear.
 
+[.letter-heading]
 To Martha Brewster, When on a Religious Visit in Ireland.
 
+[.signed-section-context-open]
 Youghal, Ninth Month 1st, 1811.
 
+[.salutation]
 Beloved Friend,
 
 Poor and weak as I am every way,
@@ -4746,8 +4891,10 @@ he and I sometimes recur to the precious little season of
 retirement we had when thou wast about leaving us,
 and think we have traced in thy communication the marks of a true prophetess.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Dublin, Fifth Month 1st, 1812.
 
 I continue to look towards London,
@@ -4765,8 +4912,10 @@ I have remarked, since coming here, that Friends`' tables are very consistent;
 and that coming out of meetings, and other times,
 they seem glad to speak to each other in love.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Bangor Ferry, Fifth Month 9th, 1812.
 
 This morning I wrote a few lines, informing thee of our safe arrival at Holyhead,
@@ -4783,8 +4932,10 @@ in my present state of being an exile from thee, my love, and the children;
 but I have no consolation to look to, save the invincible Rock,
 which no doubt will still prove a place of refuge, if my poor mind does but flee to it.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, Fifth Month 12th, 1812.
 
 It feels a little trying to sit down again to address thee,
@@ -4815,8 +4966,10 @@ we had our little silent meeting together at Capel Curig:
 thus we were literally the "`two or three,`" and I thought
 how precious were a few moments of true quiet.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Ratcliffe, Fifth Month 15th, 1812.
 
 Thy feeling so calm on going home is, I think,
@@ -4831,7 +4984,7 @@ My dear mother is come, and we have had an interview up-stairs.
 She seems, I think, very nicely; and thou mayest be sure, rejoiced at our meeting.
 Her faculties seem very bright and clear.
 
-18th.--Yesterday I was at Ratcliffe Meeting in the morning, which was very small,
+_18th._--Yesterday I was at Ratcliffe Meeting in the morning, which was very small,
 yet not silent,
 for four of us women Friends had something to communicate--Mary
 Capper and Mary Lewis of the number.
@@ -4847,8 +5000,10 @@ than his visit to Ireland.
 He saluted me as though I had been a near relation.
 This dear man has received no account from home since twelfth month.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Fifth Month, 1812.
 
 Thy letter comforted my heart,
@@ -4881,8 +5036,10 @@ the father and mother improving characters: indeed many of my old friends are so
 which is a great satisfaction to my mind; and here are many,
 very many nice young people to be seen at this assembly.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Ratcliffe, Fifth Month 28th, 1812.
 
 I have had many painful cogitations since I left home,
@@ -4903,13 +5060,16 @@ but I must also try not to make any cause of regret to myself,
 as I hope this visit to England will serve me for many years: we are, to be sure,
 short-sighted though, after all.
 
+[.postscript]
+====
+
 P+++.+++ S. (Afternoon.)--I kept this open till after post time, and now,
 my dear and ever-valued husband, I have received thine of seventh day last:
 it is as a cordial to my heart:
 I was ready to prostrate myself before the Lord for this renewed mercy to my poor mind.
 The meeting this morning was a time of favor on the whole.
 
-Fifth Month 30th, 1812.--I fixed to write this morning,
+_Fifth Month 30th, 1812._--I fixed to write this morning,
 but have scarcely been able to collect my thoughts,
 in sympathy with our dearly beloved Henry Hull,
 who has a most affecting account from home.
@@ -4941,6 +5101,8 @@ and ends in giving praise and glory to His Name.
 Ah! my love, what an unspeakable, unmerited favor is such condescension!
 The women`'s meeting has been, I think, much owned too;
 and many important truths declared "`in the demonstration of the Spirit, and of power.`"
+
+====
 
 To the Same.
 
