@@ -8950,10 +8950,13 @@ Your affectionate friend,
 
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, probably 1824.
 
+[.salutation]
 Dear Friend,
 
 Let me just say that I do not forget you,
@@ -8980,14 +8983,19 @@ and it is a mercy to be enabled to rejoice in His
 salvation when outward things look gloomy,
 and to know that He makes the feet like hinds`' feet, to run the ways of His requirings.
 
+[.signed-section-closing]
 I remain affectionately,
 
+[.signed-section-closing]
 Your sincere friend,
 
+[.signed-section-signature]
 S+++.+++ Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 1824.
 
 Dear and precious child, what a favor it is to be, as it were, singled out,
@@ -9016,8 +9024,10 @@ it can rejoice though none else regard it, or own its life.`"
 Please to take notice, that when I thought of these things,
 I had not recollected reading the passage for years.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Tenth Month 5th, 1824.
 
 We are now about going out a little to visit some
@@ -9028,8 +9038,10 @@ while at other seasons it continues throughout,
 to the great grief of the minds of those who are diligent in labour.
 Oh for some old fashioned Friends`' meetings!
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Eleventh Month 11th, 1824.
 
 +++[+++After alluding to illness in her family]--Thus it
@@ -9041,8 +9053,10 @@ to follow the leadings of His Holy Spirit;
 so that surely He will not now utterly forsake us,
 though "`He makes the clouds His chariot, and walks upon the wings of the wind.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, First Month 16th, 1825.
 
 Having been favored to get through the family visit in this meeting,
@@ -9075,8 +9089,10 @@ that the answer of "`well done`" may be joyfully received in its fulness at last
 as well as in measure now.
 Do salute him for me in the Lord.
 
+[.letter-heading]
 To Martha King.
 
+[.signed-section-context-open]
 Colchester, Second Month, 1825.
 
 I assure you, my dear friend, it is no light thing to be a member of Chelmsford Meeting,
@@ -9097,8 +9113,10 @@ I often feel left to a sense of my own nothingness,
 in a manner more humiliating and depressing than I can tell you.
 It is the Lord`'s power that I wish to magnify, and if I glory, it is in my infirmities.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Third Month 7th, 1825.
 
 I am persuaded you have not been without your share of sorrow since we parted,
@@ -9123,8 +9141,10 @@ therefore lift up your head in hope,
 and doubt not but the very feeble endeavors of your
 mind are accepted by our gracious Creator.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Fourth Month 8th, 1825.
 
 I can remember nervous suffering so severe as is by no means to be described:
@@ -9136,8 +9156,10 @@ Ah! it was permitted to be interrupted by that part in which our poor souls groa
 being in bondage, and longing to be delivered; "`not for that we would be unclothed,
 but clothed upon.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Fourth Month 24th, 1825.
 
 Your little note is sweet to me; it breathes unabated love and true friendship.
@@ -9176,8 +9198,10 @@ I feel sometimes a little encouraged to hope that our intercession is acceptable
 and that, in consequence,
 the Father of mercies does visit our offspring by His special grace.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stockwell, Fifth Month 21st, 1825.
 
 In the first sitting of the Yearly Meeting,
@@ -9193,8 +9217,10 @@ Many not of our Society attended:
 the doctrines of the Gospel were clearly and largely opened,
 and truth did appear to be over all.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Sixth Month 1st, 1825.
 
 The Yearly Meeting was, on the whole, a time of much favor,
@@ -9207,8 +9233,10 @@ for since I spoke against him I do earnestly remember him still;
 therefore my bowels are troubled for him; I will surely have mercy upon him,
 says the Lord.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Same date.
 
 How often is it the case, that in endeavoring to follow the leadings of truth,
@@ -9246,8 +9274,10 @@ Oh! it was a solemn time indeed:
 there came such an awful silence over that large assembly,
 and under this it separated--praised be the Lord!
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Sixth Month 5th, 1825.
 
 I am comforted in knowing that Divine Providence has been pleased
@@ -9271,8 +9301,10 @@ of the Most High with His children are in wisdom and mercy;
 and in learning to put your trust in Him,
 you will know that everlasting strength and all-sufficiency are with Him, the Lord.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Eighth Month 30th, 1825.
 
 The most desirable state of mind before the Father of mercies is that of true contrition,
@@ -9290,10 +9322,13 @@ being even joint heirs in His unspeakable glory.
 Oh! adorable mercy, vouchsafed to poor, unworthy man!
 How does the thought of such infinite love melt our hearts!
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Eighth Month 31st, 1825.
 
+[.salutation]
 My Dear Friend,
 
 I am glad you could write me so comfortable and kind
@@ -9317,14 +9352,19 @@ with the waiting state to which the promise is,
 they "`shall renew their strength; they shall mount upward with wings as eagles,
 they shall run and not be weary, they shall walk and not faint.`"
 
+[.signed-section-closing]
 Dearly farewell, says
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 S+++.+++ Grubb.
 
+[.letter-heading]
 To her Children.
 
+[.signed-section-context-open]
 Hereford, Ninth Month 15th, 1825.
 
 I often think of you, my beloved children,
@@ -9344,10 +9384,13 @@ We must learn to bear trying feelings, even the sense of our own frailty, with p
 and in a humble hope for a perfect change of heart.
 So farewell, all of you, says your affectionate mother,
 
+[.signed-section-signature]
 S+++.+++ G.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Charlbury, Ninth Month 24th, 1825.
 
 The public meeting was held at Birmingham, to our comfort, it being a living,
@@ -9361,8 +9404,10 @@ I do try to commit you into the good hand of an Almighty Being,
 believing that what He permits is for our real benefit.
 Farewell, my dear children.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Tenth Month 4th, 1825.
 
 I know that the times of refreshing are worth waiting for,
@@ -9371,8 +9416,10 @@ that because I have been engaged in so solemn and sacred a work as the ministry,
 I must therefore of course be sensible of heavenly consolation,
 immediately on my retreat as from the awful field of battle.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Twelfth Month 4th, 1825.
 
 What a long time it is since I communicated a word to you in this way,
@@ -9394,10 +9441,13 @@ for the trial of our faith is more precious than of gold that perishes.
 Poor +++_____+++! His death put me in mind of Jane Pearson`'s address--"`Lord,
 the wickedness of man is great,`" and the reply--"`My mercy is greater.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Twelfth Month 25th, 1825.
 
+[.salutation]
 My Dear Friend,
 
 It is gratifying to me to be assured of your continued affectionate remembrance,
@@ -9424,12 +9474,16 @@ to the refreshment of the weary soul.
 
 Farewell my dear friend, and believe me to be, as ever,
 
+[.signed-section-closing]
 Your affectionate and grateful friend,
 
+[.signed-section-signature]
 S+++.+++ Grubb.
 
+[.letter-heading]
 To Martha King.
 
+[.signed-section-context-open]
 Second Month 14th, 1826.
 
 A letter received yesterday prepared us for the mournful tidings which came this morning.
@@ -9447,8 +9501,10 @@ the will of the Lord be done; in life or death, all is well.
 Farewell, my very dear friend;
 my spirit commends you to Him who is a strength to the needy in their distress.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Third Month 26th, 1826.
 
 Although distance by sea, as well as land, separates us in person,
@@ -9487,8 +9543,10 @@ in and through whom His works praise Him!
 Ah! He is worthy, my dear children,
 that all we have and are should be dedicated to His honor, all the days of our life.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Fifth Month 1st, 1826.
 
 The funeral of our late worthy friend, M. P., was largely attended.
@@ -9505,8 +9563,10 @@ of the great and glorious cause of universal righteousness,
 but I am content in the Lord`'s will.
 He is, in His own due time, a rich rewarder.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, Fifth Month, 1826.
 
 Oh! my dear,
@@ -9517,8 +9577,10 @@ There are many nice young people at this Yearly Meeting.
 It seems, with us and you, a peculiar time of favor to this class,
 and of pouring out of the heavenly anointing in the ministerial gift.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Sixth Month 6th, 1826.
 
 I take the pen to comply with your kind request to be informed how I got through
@@ -9543,16 +9605,20 @@ even when the joys and sorrows of time shall terminate forever.
 I hope you were comforted together by the visit of
 Isaac Stephenson and his amiable consort.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Seventh Month 7th, 1826.
 
 It is a great and awful thing to be a vessel moving in Him who is the "`glorious Lord,
 the place of broad rivers and streams, wherein goes no galley with oars,
 neither does gallant ship pass thereby.`"
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Chelmsford, Eighth Month 13th, 1826.
 
 I assure you, my dear child,
@@ -9567,8 +9633,10 @@ I did not doubt but his Divine, all-gracious Master would be with him,
 for he seemed to me to be in pure dedication to His call,
 and with the eye of the mind continually turned to the heavenly anointing.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Eighth Month 18th, 1826.
 
 And now let me say that I much hope none of the things that are from without,
@@ -9588,8 +9656,10 @@ He also is become my salvation;`" and does He not require that
 there should be a willingness to show forth His salvation,
 in His own way, according to the pointing of His heavenly anointing?
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Ninth Month 2nd, 1826.
 
 I have thought, for some days, when looking toward you,
@@ -9612,8 +9682,10 @@ and we shall learn more and more to trust in His holy name,
 who is worthy forever and ever.
 Amen.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Same date.
 
 I remember a time when I was under most trying feelings,
@@ -9624,10 +9696,13 @@ willing that the creature should be mortified and brought into the dust,
 which is so needful for us, that, in all things,
 the eternal power of truth may be set up and magnified.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, probably 1826.
 
+[.salutation]
 My Dear Friend,
 
 By some mistake I find we have brought away a pocket handkerchief,
@@ -9644,14 +9719,19 @@ which nothing here below is of itself able to dissolve.
 Let us all endeavor to make still further progress in this happy experience,
 by standing fully open to the Divine mind in all things.
 
+[.signed-section-closing]
 I subscribe myself
 
+[.signed-section-closing]
 Your--your affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Chelmsford, First Month 17th, 1827.
 
 None of us ever come to be well-grounded in righteousness, but by tribulation;
@@ -9668,8 +9748,10 @@ greatly desiring that that good work which is begun in your heart,
 may be carried on and completed, to your enduring consolation,
 and the glory of the Great Name.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Chelmsford, First Month 30th, 1827.
 
 I wished your dear father to write to you this time,
@@ -9692,8 +9774,10 @@ save by Him who knows the heart.
 We must even be content that good people should not highly esteem us.
 May Divine compassion and love be with my dear child, says her affectionate mother.
 
+[.letter-heading]
 To Martha King.
 
+[.signed-section-context-open]
 Fourth Month 13th, 1827.
 
 I find I must be satisfied with the failure of these bodily faculties, sight, hearing,
@@ -9705,8 +9789,10 @@ endowed with capacity to know and enjoy Him who was, and is,
 and is to come--the Author and Source of every good; and then again I know nothing,
 and am in a state of trembling, and abhor myself most truly.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, Fifth Month, 1827.
 
 I believe that none can fully comprehend the distressing
@@ -9728,8 +9814,10 @@ He remains to be a Father to the fatherless,
 and a Friend that adheres more closely to His humble, submissive ones,
 than the nearest outward connections can do.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, Fifth Month, 1827.
 
 This morning the women`'s meetinghouse has been well filled, without much crowding;
@@ -9777,8 +9865,10 @@ and to be influenced by; and the testimonies of this Gospel are as immutable as 
 I tremble for the future sittings of the Yearly Meeting as it regards myself, a poor,
 burdened creature; but if the Lord and His truth be exalted, it is enough.
 
+[.letter-heading]
 To Mary Davis.
 
+[.signed-section-context-open]
 London, Fifth Month 20th, 1827.
 
 What a blessed thing it would be if +++_______+++ should become eminently
@@ -9811,8 +9901,10 @@ I am sensible of the effects of such exertion on my lungs,
 but I consider it a great favor to be anointed for the solemn work of the ministry; yes,
 I magnify my office, while I feel that to me belongs blushing and confusion of face.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Dover, Sixth Month 25th, 1827.
 
 Your kind letter has been forwarded to this place.
@@ -9845,8 +9937,10 @@ That was to have been a day of rest, but it proved one of much exhaustion of str
 as to the body; yet I can say that the Lord is worthy to be served,
 even with our latest breath.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Eighth Month 26th, 1827.
 
 It has been trying to my feelings, so long to withhold a word of sympathy in this way,
@@ -9860,10 +9954,13 @@ shall we not rejoice and give thanks?
 ever adoring the name of Him who was her invisible strength, sometimes her song, and who,
 in the riches of His grace, did become her salvation forever.
 
+[.letter-heading]
 To her Brother.
 
+[.signed-section-context-open]
 Chelmsford, Eleventh Month 6th, 1827.
 
+[.salutation]
 My Dearest Brother,
 
 I do not like to omit addressing you with a line or two,
@@ -9908,6 +10005,7 @@ and enabled me to resist the attacks of the grand adversary, so that I can say r
 "`The Lord Jehovah is my strength and my song; He also is become my salvation.`"
 I must now say farewell, being your very affectionate sister,
 
+[.signed-section-signature]
 Sarah Grubb.
 
 To +++_______+++.
