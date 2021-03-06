@@ -10948,8 +10948,10 @@ that proves ultimately conducive to the health of those who receive it.
 Thus is the soul strengthened, so that ability is known to "`withstand in the evil day,
 and having done all, to stand.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Fourth Month 11th, 1830.
 
 I know exactly how it is to think that the tide of opposing things is so overwhelming,
@@ -10962,8 +10964,10 @@ and that relief which Infinite Wisdom may see meet for thee.
 It is no more than I expected, that thou art again raised up,
 and constrained to visit the seed of life in places situated away from thy own home.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, Fifth Month, 1830.
 
 Yearly Meeting, second week.--Once more Friends have cause to be humbly thankful,
@@ -10986,8 +10990,10 @@ be abased before the Lord, either in the extendings of His love,
 or by His judgments being poured out among us still more conspicuously,
 and more heavily than we have known of late.
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Sixth Month 4th, 1830.
 
 Thy brother`'s character seems to be formed for the best example to others, so that,
@@ -11010,8 +11016,10 @@ in His inscrutable wisdom, He may have seen meet to withhold.
 It was in my heart to salute thee with this little word of encouragement,
 and to assure thee of my continued love.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Sandford Place, Seventh Month 18th, 1830.
 
 Last evening the parcel arrived with the feast of letters, we each receiving one.
@@ -11021,8 +11029,10 @@ He hath evidenced that He heard our prayers,
 and hath led us hitherto by His own Divine hand; so that I hope we can all say,
 "`It is better to trust in the Lord, than to put confidence in princes.`"
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Sandford Place, Eighth Month 21st, 1830.
 
 I wish thee not to avoid any right sense of just reproof from the inward monitor,
@@ -11044,8 +11054,10 @@ afford a momentary gratification to the natural mind.
 I would have you often commit yourselves into the hands of your Heavenly Father.
 If you have words, use them: if not, seek them not.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Ninth Month 2nd, 1830.
 
 We have indeed a merciful High Priest, who pities our infirmities.
@@ -11082,10 +11094,13 @@ and continue to enjoy true quiet, many times, under our present humble roof; and
 thou knowest, is better than great riches; yea, it is possible to rejoice in the Lord,
 and be glad in the God of our salvation, when temporal blessings are removed.
 
+[.letter-heading]
 To Robert Fayle.
 
+[.signed-section-context-open]
 Stoke Newington, Ninth Month 17th, 1830.
 
+[.salutation]
 My Dear Cousin,
 
 Thinking as I do, of thee for many weeks past, with affectionate interest,
@@ -11126,15 +11141,18 @@ Our love is to your dear children.
 May Heavenly Goodness manifest His providence as being abundantly over them!
 
 I sometimes view, with peculiar interest,
-thy valued present to me many years ago--a seal with the motto, "`Fideli certa merces.`"
+thy valued present to me many years ago--a seal with the motto, "`__Fideli certa merces.__`"
 
 Farewell, my dear relative and friend;
 long known and increasingly beloved by thy far distant, yet nearly sympathizing friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Third Month 27th, 1831.
 
 I have been at meeting today.
@@ -11149,8 +11167,10 @@ fur the sake of our dear children, but above all, for the sake of the truth itse
 nothing might really prevail against me, to render me.
 as a broken bow.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Fourth Month 14th, 1831.
 
 We have rejoiced in the tidings of thy being enlarged in thy ministerial gift,
@@ -11174,8 +11194,10 @@ As Job Scott said, "`lighter now than vanity,
 except as they are clearly seen to have contributed
 largely to the sanctification of the soul.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Ipswich, Fifth Mouth, 1831.
 
 The meeting is got through, and I am much relieved, feeling truly thankful;
@@ -11183,8 +11205,10 @@ for it has been all I could wish--a multitude of people,
 and the power of truth rose higher and higher,
 until it was in blessed and glorious dominion.
 
+[.letter-heading]
 To Mary Davis.
 
+[.signed-section-context-open]
 Stoke Newington, Sixth Month 4th, 1831.
 
 No doubt thou frequently feels the infirmities attendant on advanced age;
@@ -11198,8 +11222,10 @@ sincerely desiring the prosperity of this true Church, wherever found upon the e
 and I trust the testimony will go forth concerning thee,
 in the day of righteous retribution, "`She hath done what she could.`"
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Sandford Place, Sixth Month 21st, 1831.
 
 Oh! my loved children, I was often, in my early days, unrefreshed in spirit,
@@ -11222,8 +11248,10 @@ You may and ought to adorn the doctrine of God our Savior,
 even in your secluded situation, by your example among those where your lot is cast;
 and this is what we wish for you, that your reward may be great.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Colchester, Tenth Month 2nd, 1831.
 
 I have transacted the main business I came here about, and I did think myself,
@@ -11245,8 +11273,10 @@ for how is the day turned into the shadow of night, in this time, among us!
 We were favored with another living meeting in the afternoon.
 I thought of Job Scott`'s terms, "`blessed and glorious.`"
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, Tenth Month 13th, 1831.
 
 I address this to thee, acquainting you with my getting home well,
@@ -11259,8 +11289,10 @@ derived from the literal fulfilment of the prophecies, is most interesting:
 at the same time, in a solitary instance here and there,
 he seems to lean more to the understanding of the mere man, than quite suits me.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Lexden, Eleventh Month, 1831.
 
 I am persuaded it is our reasonable duty, even to suspend our worldly concerns,
@@ -11271,8 +11303,10 @@ in being blessed with every earthly comfort,
 and we ought to number our blessings.
 Many are made sorrowful in grey hairs, by things that have not come nigh us.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, 1831.
 
 The meeting at Tottenham on First day evening was much crowded,
@@ -11289,8 +11323,10 @@ My soul is encouraged to confide in Him who is the strength of His poor dependen
 and to ascribe unto Him all might, majesty, and renown; to lie low before Him,
 and to wait for the fresh openings of His mind and will.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Stoke Newington, Seventh Day Evening (probably 1831).
 
 I need hardly tell thee that I have thought of thee continually,
@@ -11309,7 +11345,7 @@ I rather dread tomorrow, lest there should be anything out of joint as it were,
 or the christian cause not exalted: but it is better not to anticipate,
 but to be inward with the Lord, both now and then.
 
-First Day Afternoon.--The funeral today was attended with
+_First Day Afternoon._--The funeral today was attended with
 more parade than suits my ideas of christian simplicity.
 I had no active part to take, but I felt in silence, especially at the graveside,
 a full assurance (as I believe) that the innocent
@@ -11325,8 +11361,10 @@ Much do I bear you on my heart; yea, before Him who is omnipotent and almighty.
 You know that even this separation is that we may prove to the world,
 that we love Christ before son and daughter.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Second Month 12th, 1832.
 
 We are not young now; may we be more and more of those who are made wise unto salvation!
@@ -11335,8 +11373,10 @@ How delightful to see those who have entered the last stage of life,
 growing in the heavenly nature,
 becoming increasingly prepared for an everlasting inheritance in the kingdom of glory!
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month 3rd, 1832.
 
 Thy precious letter, received this morning, has much contributed to our comfort.
@@ -11370,8 +11410,10 @@ felt all the infirmities and sufferings of human nature,
 that through His blood our sins might be purged,
 and by His stripes all the wounds inflicted in any way upon us, might be healed.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month 8th, 1832.
 
 According to my engagement yesterday, I begin a letter to thee this day.
@@ -11390,13 +11432,16 @@ and did not now find that it was necessary for me to call in question the propri
 of the high standing our religious body had always taken in such matters;
 being clearly convinced that this is not the true fast.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month 16th^
 footnote:[Ten years from this date, viz., Third Month 16th, 1842,
 S+++.+++ G. entered on her everlasting rest.]
 1832.
 
+[.salutation]
 My Dear +++_______+++,
 
 This being the twenty-first anniversary of thy coming into existence,
@@ -11421,16 +11466,22 @@ and thus have the truest enjoyment of this life, and everlasting riches, and hon
 and glory, in the world of spirits.
 With dearest love,
 
+[.signed-section-closing]
 I remain
 
+[.signed-section-closing]
 Thy own tender mother,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month 18th, 1832.
 
+[.salutation]
 My Dear Friend,
 
 Thou didst not, in thy remarks at the Yearly Meeting, on the desirableness of silence,
@@ -11467,12 +11518,16 @@ but for mercy`'s sake, and to evince that an offended God is "`slow to anger.`"
 Trusting to thy indulgence for my procrastination in writing,
 and for the freedom now taken,
 
+[.signed-section-closing]
 I remain Thy affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, Fourth Month 9th, 1832.
 
 I have been anxious about you on divers accounts,
@@ -11487,8 +11542,10 @@ With earnest desires for your preservation and furtherance
 in the path cast up for the redeemed,
 I take my leave.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Stoke Newington, Fourth Month 14th, 1832.
 
 I think that First day is a day wherein we may be particularly
@@ -11505,8 +11562,10 @@ It was my wish, and, after the first, theirs too.
 
 Though our allotments are distant outwardly, thou art ever with me in mind.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Stoke Newington, Fifth Month 1st, 1832.
 
 The meeting on First day was very large, and got through well; truth making its own way,
@@ -11524,8 +11583,10 @@ as I had not known for a long time, either among Friends or others.
 Oh! my soul magnifies the mercy, and wisdom, and power that is not of man,
 but of the Lord our God!
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Stoke Newington, Fifth Month 3rd, 1832.
 
 We are glad thou engages thy time and talents in things likely to benefit thy fellow-men,
@@ -11547,8 +11608,10 @@ and be formed for the glory and honor of thy God;
 and great will be thy peace in a world of trouble and perplexity.
 Farewell, my dear +++_______+++.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Fifth Month 11th, 1832.
 
 I hope, my dear +++_______+++,
@@ -11566,8 +11629,10 @@ I do, my dear +++_______+++,
 desire thy encouragement in everything given thee to do by the great Giver of all good,
 and wish the work of thy hands to prosper.
 
+[.letter-heading]
 To Mary Davis.
 
+[.signed-section-context-open]
 Stoke Newington, Fifth Month 23rd, 1832.
 
 It is with feelings of peculiar sympathy that I take the pen to address thee.
@@ -11591,8 +11656,10 @@ and think that we are suffering the displeasure of our Judge,
 and that we shall not know Him as our Savior; while, at the same time,
 He is sustaining the spirit by His invisible power.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Fifth Month 30th, 1832.
 
 I hope, as thou launches forth more fully,
@@ -11606,8 +11673,10 @@ with a specious appearance, seems to me to be much devoid of substance.
 I have once more been constrained to sound an alarm, and set forth our danger;
 which some believe, and many set at nought.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Sixth Month 8th, 1832.
 
 Feeling much for thee in thy tried state of mind, I want to tell thee,
@@ -11626,25 +11695,23 @@ I say it again, be patient in tribulation, stedfast in hope,
 and thou canst not think how the Almighty Arm will be made bare for thee, to bring thee,
 in due time, into a large place.
 
+[.small-break]
+'''
+
 In Sarah R. Grubb`'s journal we read a beautiful verse, in which she thus writes:--
 
-"`When heaven seems brass, and earth, with iron bars,
-
+[verse]
+____
+When heaven seems brass, and earth, with iron bars,
 Doth hold its cheering goodliness from thee,
-
 Then with a calm, resigned mind, give up--
-
 Freely surrender all thou callest thine.
-
 No longer rest on Jordan`'s banks, but with
-
 Stability step in, and learn to know
-
 That stones there are, which for memorial serve;
-
 Then bring them up from thence, as proofs where thou
-
-Hast been, and therewith raise thine Ebenezer.`"
+Hast been, and therewith raise thine Ebenezer.
+____
 
 I have thought that those endowed with more than ordinary talents are peculiarly tried,
 ere they come to devote all to the Lord, the Giver of every good and perfect gift.
@@ -11655,8 +11722,10 @@ Ah! my dear +++_______+++, thou art designed to be a golden vessel.
 
 Be not dismayed; the Lord is with thee, even when He hideth His face.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, Sixth Month 18th, 1832.
 
 We had a very full meeting yesterday at Peckham, in the evening,
@@ -11677,8 +11746,10 @@ impressed with the solemn truths of the Gospel.
 This Gospel leads down into great abasedness of the creature, and exalts the Creator,
 the Redeemer, the Everlasting Father, the Prince of Peace.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Seventh Month 5th, 1832.
 
 Yesterday we gave in to the Monthly Meeting the Minute, as expected.
@@ -11699,8 +11770,10 @@ and I am gratified too, in reading it to him.
 
 Thou mayest rest assured, that even for your sakes, I am disposed to take care of myself.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, Eighth Month 20th, 1832.
 
 Ah! we had not been more than a very few days separated from our dear Newington friends,
@@ -11738,10 +11811,13 @@ and as none of these tribulations leave us as they find us, I tenderly desire fo
 that they may feel an increase of firmness, as to their standing on the sure Foundation,
 the Rock of safety in the boisterous sea of life.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, Eleventh Month 4th, 1832.
 
+[.salutation]
 My Beloved Friend,
 
 It is long, very long, since thou and I have communed in this way;
@@ -11788,17 +11864,23 @@ but my heart feels interested in those I have long loved,
 that they may be found walking worthy of the high vocation wherewith we are called.
 With love unfeigned,
 
+[.signed-section-closing]
 I am
 
+[.signed-section-closing]
 Thy sincerely attached friend,
 
+[.signed-section-signature]
 S+++.+++ Grubb.
 
+[.letter-heading]
 To Mary Davis.^
 footnote:[Mary Davis died on the 12th of First Month, 1833]
 
+[.signed-section-context-open]
 Lexden, Eleventh Month 12th, 1832.
 
+[.salutation]
 My Long Beloved Sister,
 
 I may say that thou hast been brought very near to my best feelings of late;
@@ -11844,10 +11926,13 @@ Should all be remitted and cleared off, it is mercy, mere mercy;
 for which our immortal spirits will be prepared forever
 to sing Halleluia to the Lord God and the Lamb.
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Twelfth Month 11th, 1832.
 
 I sit down after a day of company to address thee,
@@ -11917,8 +12002,10 @@ and who will prove themselves truly wise in their choice and in their obedience,
 when the sandy foundation will be discovered and shaken,
 and all will give way that has been erected on it.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, Twelfth Month 29th, 1832.
 
 Thinking thou and thy dear brother will look for some tidings from us tomorrow,
@@ -11937,8 +12024,10 @@ arduous an act of obedience to the will of my Heavenly Father.
 May you turn your minds to Him on behalf of His own great cause,
 and on behalf of His poor nothing as I am.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Stoke Newington, First Month, 1833.
 
 We are right glad of thy lines written yesterday.
