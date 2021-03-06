@@ -9910,8 +9910,10 @@ I must now say farewell, being your very affectionate sister,
 
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Twelfth Month 14th, 1827.
 
 You know that it is sometimes the case that the Lord`'s dearest
@@ -9956,10 +9958,13 @@ yet the Lord thinks upon me.`"
 We may be humble without undue depression; indeed,
 I am inclined to think that the meekness of Christ leads from a disposition that way.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Twelfth Month 14th, 1827.
 
+[.salutation]
 My Dear Friend,
 
 Had I not expected to see you, on the moving occasion of dear +++_______+++`'s interment,
@@ -9993,12 +9998,16 @@ and given Himself for us.`"
 Hoping soon to have the pleasure of verbal communication, I bid adieu for the present,
 and subscribe myself
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To Martha King.
 
+[.signed-section-context-open]
 First Month 6th, 1828.
 
 I am still prevented from making progress in the great work before me,
@@ -10024,8 +10033,10 @@ I have overcome the world?`"
 Even so, my endeared friend.
 Farewell.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, First Month 12th, 1828.
 
 Few meetings of Friends have ever been more faithfully labored with than this,
@@ -10035,10 +10046,13 @@ Surely it would be no marvel if another dispensation came,
 even wherein there would be a famine of this word; for I do not apprehend that,
 take us altogether, we are as much improved as we ought to be.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Third Month 5th, 1828.
 
+[.salutation]
 My Dear Friend,
 
 It often seems remarkable to me, that when you were with us,
@@ -10070,12 +10084,16 @@ How true it is, that "`in the midst of life we are in death.`"
 He was only forty-five years of age,
 and industriously engaged for the maintenance of his family.
 
+[.signed-section-closing]
 Your truly affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Dublin, Fourth Month 26th, 1828.
 
 I am glad you could pray for me; perhaps I never stood more in need of such intercession.
@@ -10087,13 +10105,15 @@ and when he mentioned that the Society in this land
 was favored still with a living gospel ministry,
 I felt thankful, and had to express something of it.
 
-28th.--We were at Sycamore Alley both fore and afternoon, and I think that it was,
+_28th_.--We were at Sycamore Alley both fore and afternoon, and I think that it was,
 upon the whole, a day of favor: in the morning the power of truth rose higher and higher,
 until it was in dominion.
 This day has been very exercising, but the good thing predominated in both meetings.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Dublin, Fourth Month 30th, 1828.
 
 This day we have had a meeting for worship, which was, I think, a remarkably favored time.
@@ -10104,7 +10124,7 @@ in profound silence.
 I have hoped that your prayers for me have been availing,
 for I think I am unloading by degrees.
 
-Fifth Month 3rd.--Now I have to tell you of the conclusion of the Yearly Meeting,
+_Fifth Month 3rd._--Now I have to tell you of the conclusion of the Yearly Meeting,
 which was with solemn silence yesterday evening.
 Friends say this has been a remarkably favored Yearly Meeting.
 R+++.+++ Fayle told me the other day,
@@ -10118,8 +10138,10 @@ partner of my life had felt and expressed to me for them,
 before my coming to this Yearly Meeting.
 I believe it was received in that love which he feels for the Society in this land.
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Fifth Month, 1828.
 
 Well for you, my dear,
@@ -10153,8 +10175,10 @@ Improve your natural understanding by suitable books and study;
 it will make your time pass more pleasantly; but do not risk your health by these things:
 it is not worth while.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Same date.
 
 The Epistle from Philadelphia is thought to be particularly satisfactory.
@@ -10162,8 +10186,10 @@ It is comforting that Friends on that side the Atlantic find strength,
 in a Yearly Meeting capacity,
 to express themselves so decidedly encouraged to persevere in the good old way.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Chelmsford, Seventh Month 28th, 1828.
 
 I am still led forth with the invitation of the Gospel to the people,
@@ -10173,8 +10199,10 @@ those houses usually occupied on such occasions;
 but if the power reaches to the people`'s hearts, and inclines them to seek the Lord,
 all the rest is but trifling in comparison.
 
+[.letter-heading]
 To Mary Davis.
 
+[.signed-section-context-open]
 Chelmsford, Tenth Month 16th, 1828.
 
 May Divine power and goodness keep you, my dear sister and friend,
@@ -10193,8 +10221,10 @@ Occasionally I hope that I may be come thus far,
 and then there is but one more seal to be opened; and on its opening,
 there is "`silence in heaven for half an hour.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Hastings, Eleventh Month 14th, 1828.
 
 What are we without tribulation?
@@ -10219,8 +10249,10 @@ Now you know, that be this in ever so small a degree,
 the certainty attending it stays the poor mind,
 enabling it to trust in the "`Strength of Israel.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Probably 1828.
 
 My dear friend`'s letter gladdened my heart,
@@ -10247,8 +10279,10 @@ to the small but clear manifestations of the Divine Mind,
 and the Lord give you a crown of righteousness to wear, even in this life,
 unto His own glory.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Clapham, First Month 6th, 1829.
 
 I am resting in this warm house, having some cold,
@@ -10270,8 +10304,10 @@ which is growing in the truth as it is in Jesus,
 it will abundantly repay me for all my exercise of mind in the cause of religion,
 and all that I feel in leaving my dear family.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 London, First Month 10th, 1829.
 
 Having such very close engagements in family visiting, my mind and body are weary,
@@ -10286,8 +10322,10 @@ This is that they may be brought away from their foolish things,
 to the meek and humble Savior, who wore a garment without an ornament,
 even without a seam.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Wandsworth, First Month 17th, 1829.
 
 I may say that my help and strength has been in the Lord, who was pleased,
@@ -10306,10 +10344,13 @@ I think, in an especial manner,
 way has been made in families to declare the word faithfully, and in gospel love,
 which is like holy oil, and has spread to each individual, almost without exception.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Clapham, First Month 24th, 1829.
 
+[.salutation]
 My Dear Friend,
 
 Your truly affectionate communication handed me yesterday,
@@ -10365,14 +10406,19 @@ It has indeed been a time when this Divine principle manifested itself largely,
 and when it penetrated the obdurate heart,
 while in a disposition to resist its influence.
 
+[.signed-section-closing]
 With love to friends,
 
+[.signed-section-closing]
 I remain your affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To her Children.
 
+[.signed-section-context-open]
 Bromley, Third Month 3rd, 1829.
 
 May Divine Goodness be graciously pleased to protect you, every one,
@@ -10383,8 +10429,10 @@ I often think of that scripture which says of Zion`'s children,
 that they shall be "`all taught of the Lord,`" and great shall be their peace.
 This peace is worth obtaining through great humiliation and suffering.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 London, Fourth Month 4th, 1829.
 
 Although the time is short since we parted,
@@ -10409,8 +10457,10 @@ I am not easy that you should mimic the vain customs of a delusive world,
 for that brings the mind into the bondage of corruption,
 and disqualifies for the free service of an all-beneficent Creator.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Uxbridge, Fourth Month 13th, 1829.
 
 We took tea with Sarah Angel, who appeared much gratified with our company.
@@ -10433,8 +10483,10 @@ The life of truth was over all.
 May the Most High have the praise of His own works!
 We are nothing, but He is great, and greatly to be praised.
 
+[.letter-heading]
 To Mary Davis.
 
+[.signed-section-context-open]
 London, Fourth Month 17th, 1829.
 
 Hitherto, in this journey,
@@ -10459,8 +10511,10 @@ This is the day which has for years been declared of, in the spirit of prophecy.
 Yet will the Refiner bring forth a remnant who resemble the gold, with its own lustre,
 and bearing the inscription of "`Holiness to the Lord.`"
 
+[.letter-heading]
 To Martha King.
 
+[.signed-section-context-open]
 Fourth Month 25th, 1829.
 
 The large general meeting in the City I went to under
@@ -10481,8 +10535,10 @@ nor do I see to the end;
 yet where is the place which my natural inclination does less desire to be found in?
 But the will of the Lord be done.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Clapham, Fifth Monty 21st, 1829.
 
 To sit in families under a sense of religious duty,
@@ -10502,12 +10558,16 @@ should we hold back because iniquity abounds,
 and the abomination of desolation is seen standing where it ought not?
 Would not that look like coldness of love?`"
 
-The following Letter to Elizabeth Grubb, arrived shortly after her decease.
+[.blurb]
+=== The following Letter to Elizabeth Grubb, arrived shortly after her decease.
 
+[.letter-heading]
 To E. Grubb.
 
+[.signed-section-context-open]
 Clapham, Seventh Month 2nd, 1829.
 
+[.salutation]
 My Dear and Long Afflicted Sister,
 
 Having learnt that you would like to receive a few lines from either your brother or me,
@@ -10535,12 +10595,16 @@ What unbounded compassion towards us poor unworthy creatures!
 Farewell, my beloved sister; yes, I believe you will forever fare well in your Savior,
 your Redeemer.
 
+[.signed-section-closing]
 I remain your truly affectionate sister,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 London, Seventh Month 14th, 1829.
 
 Oh! how I love to see the young people embrace religion fully!
@@ -10554,8 +10618,10 @@ The Almighty has done much for you--blessed you abundantly many ways.
 Oh! that all His benefits may be regarded, and your hearts yield to His power,
 that so you may be His; which I know would render you more happy than anything else.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Clapham, Seventh Month, 1829.
 
 There are times when our faith seems all but shipwrecked, yet as we endeavor to be still,
@@ -10630,8 +10696,10 @@ although the bottom is upon the earth.
 Oh! thus is Christ, the way, represented, who condescends to our earthly condition,
 to raise us up into His own heavenly, joyous kingdom.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Eighth Month 20th, 1829.
 
 We are all well, and desire our dear love to you; feeling much sympathy with you;
@@ -10643,8 +10711,10 @@ that you are visited with this singular and sore dispensation in displeasure;
 I believe it is far otherwise.
 "`Be of good cheer, and He shall strengthen your heart.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Eighth Month 22nd, 1829.
 
 I do pray for you, my dear child, fervently and frequently;
@@ -10661,8 +10731,10 @@ as it were, breaking upon you.
 Oh! may the healing, which is in the heavenly wings, reach your soul, comfort,
 and strengthen you to go forth and grow up as one peculiarly cared for!
 
+[.letter-heading]
 To Mary Davis.
 
+[.signed-section-context-open]
 Near London, Tenth Month 13th, 1829.
 
 What labour and sorrow we have in this probationary state of existence!
@@ -10688,8 +10760,10 @@ or bear testimony to the truths of the everlasting, unchangeable Gospel; yes,
 in the demonstration of the eternal Spirit of God,
 and with that power which is of and from this source.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 London, Eleventh Month 30th, 1829.
 
 How nice it is to pursue a little study, to vary your employ,
@@ -10723,8 +10797,10 @@ perhaps eighteen hundred, and very many went away for lack of room.
 I thought it a good meeting, which was cause of great thankfulness,
 for it was a mixed multitude.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stamford Hill, Twelfth Month 12th, 1829.
 
 The work allotted me is truly awful.
@@ -10739,8 +10815,10 @@ I desire that the restraining influence of the Spirit
 of truth may keep away from us the strange fire,
 which, wherever it is offered, occasions death.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Wandsworth, Twelfth Month 25th, 1829.
 
 I often think of you when my mind is turned to the Lord in secret prayer:
@@ -10753,8 +10831,10 @@ engaged to lift up your hearts to the Almighty,
 morning and evening, to implore His preservation,
 and that He would give you to grow in grace and saving knowledge.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Near London, Twelfth Month 31st, 1829.
 
 Being brought low is frequently a preparation to
@@ -10780,8 +10860,10 @@ and even to such a worm as myself;
 the same that it was in the days of the early Christians,
 when they knew it to hush all their fears, while on the boisterous waves.
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Probably 1829.
 
 I just want to put you in mind that when we, poor erring, sinful creatures,
@@ -10831,10 +10913,13 @@ We were at Devonshire House Meeting third day, Peel yesterday,
 and have appointed a public meeting at the latter place for this evening,
 and one at Gracechurch Street for First day.
 
+[.letter-heading]
 To Martha King.
 
+[.signed-section-context-open]
 Probably 1830.
 
+[.salutation]
 My Dearly Beloved Sister,
 
 I scarcely am allowed a few minutes to salute you, being in haste to depart,
@@ -10850,8 +10935,10 @@ You are traveling home, never more to be weary or faint, nor to lack any comfort
 The Lamb shall feed you, and bring you to living fountains of water;
 and "`all tears shall be wiped away.`"
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Clapham, First Month 20th, 1830.
 
 And now, my dear +++_______+++,
@@ -10900,8 +10987,10 @@ Be encouraged, my dear +++_______+++, to hope that better days are in store for 
 seeing you do long after a nearer acquaintance,
 a more intimate union with your Heavenly Father.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month 15th, 1830.
 
 Oh! if my dear children are united to their Redeemer,
@@ -10910,8 +10999,10 @@ what cause of rejoicing it will be to their precious father and myself.
 We never desired great things for them in the world, only that Christ Jesus our Lord,
 might be to them "`the chief of ten thousand.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Fourth Month 15th, 1830.
 
 Yet it is true that "`affliction comes not forth of the dust,
