@@ -5095,8 +5095,10 @@ and many important truths declared "`in the demonstration of the Spirit, and of 
 
 ====
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Bromley, Sixth Month 1st, 1812.
 
 At the last sitting of the meeting of ministers and elders,
@@ -5126,7 +5128,7 @@ what a mercy that you have such comfortable intelligence for your poor wife,
 who so dearly loves you and our little ones.
 Surely it ought to encourage me not to make too much haste home, which I can hardly help.
 
-Tottenham, Sixth Month 4th, 1812.--A friend who has spent some time, within a few days,
+_Tottenham, Sixth Month 4th, 1812._--A friend who has spent some time, within a few days,
 with Henry Hull, says he is quiet.
 This dear man appears to bear his singular trial with holy acquiescence,
 while his nature feels it as much as can be conceived.
@@ -5134,8 +5136,10 @@ while his nature feels it as much as can be conceived.
 Joseph Bevan is gone up to the Meeting for Sufferings.
 We took a farewell of each other, and had a sweet little opportunity previously.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Gloucester, Sixth Month 9th, 1812.
 
 Your cordial salutation, how sweet and pleasant to your own wife,
@@ -5176,8 +5180,10 @@ All the remaining family he left were in usual health,
 only his youngest son had met with an accident,
 the wheel of a wagon having gone over him, but from this he was recovering.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Milford, Sixth Month 14th, 1812.
 
 I have just received your letter,
@@ -5217,8 +5223,10 @@ that they are but the channel which conveys the living water.
 I had put this in my pocket, intending to go this evening, but there has come on a storm,
 and the wind has changed more against us, so that we must try to have patience.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Milford Haven, Sixth Month 16th, 1812.
 
 Well, my love, we must endeavor after resignation.
@@ -5238,8 +5246,10 @@ and hope you and the rest of our dear relatives, will do the same.
 This detention certainly proves particularly trying,
 but let us remember that all things can be known to work together for good.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Waterford, Second Month 4th, 1813.
 
 I have not forgotten my promise that you should receive
@@ -5255,20 +5265,22 @@ I am trying to cheer her what I can,
 and I recollect that it is frequently the case that one gets a
 deep plunge in the onset of an engagement of this kind.
 
-Third Day.--We have sat in four families today.
+_Third Day._--We have sat in four families today.
 H+++.+++ has been more enlarged in her gift this day,
 than I recollect to have been witness to before.
 She so evidently raises the life in families, that her company is very desirable.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Waterford, First Day.
 
 H+++.+++ is evidently separated by the Master for this work,
 receiving the fresh anointing in almost every opportunity.
 She supplicated in meeting this day.
 
-Second Day.--The meeting last evening was but small,
+_Second Day._--The meeting last evening was but small,
 I believe partly owing to the inclemency of the weather:
 it proved rather a laborious time, although the people were very quiet,
 and many Gospel truths were declared.
@@ -5285,7 +5297,7 @@ been crushed or hurt that was truly alive,
 and even so as not to offend those who may have been
 opposed to the plainness of the Gospel of truth.
 
-Waterford, Second Month 15th, 1813.--We have paid sixty-five visits,
+_Waterford, Second Month 15th, 1813._--We have paid sixty-five visits,
 but I find we have about thirty, at least, yet to pay; which, along with the meetings,
 will be likely to take up this week fully,
 and may be next First day may finish or wind up.
@@ -5296,7 +5308,7 @@ and indeed the second gathering of the people was much to my relief in the end.
 The meeting was large and solid.
 I think it was what Job Scott would have called "`blessed and glorious.`"
 
-Waterford, Second Month 18th, 1813.--As Hannah intends writing herself,
+_Waterford, Second Month 18th, 1813._--As Hannah intends writing herself,
 I need not say much about her; but I often thought, since coming here,
 you would have been surprised if you had heard her in the gift, it was so beautiful.
 
@@ -5306,8 +5318,8 @@ in our measure,
 "`that which is behind of the sufferings of Christ,`" for the body`'s sake,
 as when occupied in the way you and I lately were together.
 
-Waterford, Second Month 20th,
-1813.--I think of you and our dear little children a great deal, and very tenderly,
+_Waterford, Second Month 20th,
+1813._--I think of you and our dear little children a great deal, and very tenderly,
 but I hope soon to have the comfort of seeing you and enjoying your company,
 though I fear not on second day,
 as my mind dwells a good deal on a public meeting for the higher classes,
@@ -5328,8 +5340,10 @@ but I must have patience, and try to be simple-hearted and faithful,
 trusting in the Lord alone, who knows that I desire nothing in these engagements,
 but the advancement of His glorious cause, in me and through me.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Clonmel, Twelfth Month 16th, 1813.
 
 You may be sure, dear friend, that my mind is often led to visit some of you in idea,
@@ -5345,8 +5359,10 @@ with Him is the power to work with or without these,
 does it not strengthen us to leave all to Him, and trust in Him, the Lord Jehovah,
 in whom is everlasting strength?
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Clonmel, First Month 13th, 1814.
 
 I am unwilling to let my J. G. go to Cork, without saluting you in this way,
@@ -5370,8 +5386,10 @@ to the magnifying that Power which is all-preserving, all-sanctifying;
 and in the hope that hereby others may be induced to enroll
 their names among the disciples of a crucified Lord.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Clonmel, First Month 16th, 1814.
 
 My mind is much with you, and at the Quarterly Meeting, though no doubt it will be small;
@@ -5391,8 +5409,10 @@ with an everlasting seal.
 You know that it is said, "`you have need of patience, that, having done the will of God,
 you may inherit the promises.`"
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Clonmel, First Month 21st, 1814.
 
 If you are detained in Cork till after First day,
@@ -5407,8 +5427,10 @@ I think it is no loss to you to be a good deal at your lodging,
 and I had such a sample of the christian-like hospitality there,
 that I believe you may be easy.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 1814.
 
 Oh! my dear +++_______+++ look with a single eye to the Holy Leader;
@@ -5430,8 +5452,10 @@ He evidences that He knows our frames, and remembers that we are dust; thus,
 in the gentle chastisements of His dear children,
 does He give them increasing capacity to call Him Father, and so feel that they love Him.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Dublin, Fifth Month 3rd, 1814.
 
 I wrote a few lines yesterday;
@@ -5447,8 +5471,10 @@ and upholding you by His power; yes, and I had renewedly to hope, in His mercies
 that we might yet be blessed and consoled in each other.
 The dear children were also brought into remembrance, with sweetness.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Fifth Month 12th, 1814.
 
 We are likely to sail this day.
@@ -5456,8 +5482,8 @@ I feel much better satisfied to make the attempt today than I have done yet.
 My sweet little children, as well as yourself, are much the companions of my mind;
 sleeping and waking, my love flows to you.
 
-Shiffnal, Fifth Month 14th,
-1814.--I have not before addressed you since I was
+_Shiffnal, Fifth Month 14th,
+1814._--I have not before addressed you since I was
 favored to arrive on this side the water.
 At Holyhead brother Samuel wrote,
 which I thought would inform you as much as I was then able to do, for I was, as usual,
@@ -5469,8 +5495,10 @@ when we should have had only sixteen hours passage.
 We have got on very well; indeed I am much better than I could expect,
 but am desirous of getting as fast as I can to London.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 London, Fifth Month 16th, 1814.
 
 I feel far away from you and my children--perhaps the further on account of the
@@ -5493,7 +5521,7 @@ we continue to experience the circulation of the Divine life!
 I went to see J. G. Bevan before meeting;
 he appears to me to be many years older than when I saw him last.
 
-London, Fifth Month 19th, 1814.--I have ventured to kneel once in the Women`'s Meeting,
+_London, Fifth Month 19th, 1814._--I have ventured to kneel once in the Women`'s Meeting,
 and, yesterday afternoon, spoke in testimony to some relief; but it is a dreadful thing,
 speaking in these great mixed meetings; for,
 although we are all members of the same Society, many and various are our conditions.
@@ -5506,7 +5534,7 @@ My dear mother is with me; she looks wonderfully well and handsome.
 J+++.+++ G. Bevan said I was to give his love very sincerely to you, and added,
 "`I love him above other men in your land.`"
 
-21st.--Now I may tell you that, after I had written to you,
+_21st._--Now I may tell you that, after I had written to you,
 and said that I found it a dreadful thing to speak in these meetings,
 I had indeed to venture again, and that after Friends had sat long and were weary;
 but I rose with saying, that I knew Friends were fatigued,
@@ -5514,8 +5542,10 @@ yet that if it pleased the Lord to cause His power to arise into glorious domini
 we might almost forget the inconvenience of the poor body;
 so my Almighty Helper made the way for me to proclaim His word with awfulness.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 London, Fifth Month 11th, 1814.
 
 When closing my last to you on seventh day morning, the twenty-first,
@@ -5546,7 +5576,7 @@ in very lively and solemn prayer, which brought me likewise to prostrate myself,
 with these words, "`Amen and Amen, Lord God Almighty, holy and true,
 who are worthy of all honor, glory, dominion and power, forevermore.`"
 
-London, Fifth Month 28th, 1814.--I do not think I ever was at such a Yearly Meeting,
+_London, Fifth Month 28th, 1814._--I do not think I ever was at such a Yearly Meeting,
 for the covering of solemnity,
 and proceeding in the business with so much life and harmony;
 the meetinghouse was more crowded, too, than ever I remember to have seen it before;
@@ -5568,15 +5598,17 @@ Your quickness of understanding in these things must
 make up for the deficiency of my pen,
 for I cannot give a just description of the meeting; many, however, were in tears.
 
-First day, 29th.--I have been to Devonshire House Meeting this morning;
+_First day, 29th._--I have been to Devonshire House Meeting this morning;
 it was largely attended by Friends and others,
 and your S. G. was largely engaged among them, to advocate the cause of righteousness.
 Blessed be the Lord, who makes His strength perfection in our weakness!
 
 G+++.+++ S. seems to be a brave advocate in the ministry of the doctrines of Christianity.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, Sixth Month 2nd, 1814.
 
 How often have I recurred to the few minutes we sat together in the car,
@@ -5601,8 +5633,10 @@ Can we ever be too much dedicated to the Lord, who has granted us so much of His
 who has richly endowed us with noble faculties,
 and designs that we should be ever with Himself?
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Colchester, Sixth Month 7th, 1814.
 
 First day at Chelmsford was a laborious day to me; what I had to do was trying,
@@ -5640,8 +5674,10 @@ from Norfolk, named Sarah Bleckley.
 She and I visited the Men`'s Meeting:
 the Women`'s Meeting was likewise favored with lively counsel.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Coggeshall, Sixth Month 9th, 1814.
 
 I may, through mercy, say that my health is as good, or better than when we parted,
@@ -5680,7 +5716,7 @@ On my taking leave he said, "`Farewell in our gracious Redeemer.`"
 He seemed reluctant to part, but said it must be,
 though he did not think we should ever meet again here on earth.
 
-11th.--Since writing the foregoing,
+_11th._--Since writing the foregoing,
 I have got through what seemed to open as religious duty in this place.
 Yesterday we sat with Friends in the morning, and, as it respects my exercise,
 the meeting was a time of deep wading; and yet, as I said,
@@ -5694,8 +5730,10 @@ It seemed a good deal like pulling down old buildings, and, as I think somebody 
 "`I was sometimes afraid that what little life I felt,
 would be smothered in the rubbish.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Ipswich, Sixth Month, 1814.
 
 I think dear John Woolman says, when he was peculiarly plunged into suffering,
@@ -5706,8 +5744,10 @@ and enable to speak to others of His ways, must have their sore exercises,
 that they may speak that they know, and testify that they have seen,
 and their hands have handled of the good word of life.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Ipswich, Sixth Month 15th, 1814.
 
 You says what a pleasant account R. F. gave of me; you know, my dear,
@@ -5734,8 +5774,10 @@ At Kelvedon we had two lively meetings, one with Friends in the morning:
 at that in the evening, great was the enlargement in Gospel love,
 even as a living stream.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Woodbridge, Sixth Month 16th, 1814.
 
 We arrived at Ipswich about two hours before the sitting of the Select Meeting,
@@ -5774,8 +5816,10 @@ named Martha Jesup.
 The meeting this morning was small, yet not without laborious exercise.
 One is appointed for the inhabitants at six o`'clock this evening.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Norwich, Sixth Month 20th, 1814.
 
 I assure you that were I to give way to what I sometimes feel,
@@ -5820,8 +5864,10 @@ The sight of such a large number, so close together, was awful;
 but my blessed Master gave me to speak "`in the demonstration of the Spirit,
 and of power,`" and all was well; glory to His Name!
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Norwich, Sixth Month 22nd, 1814.
 
 Many are my conflicts, and deep the wading of my spirit, as I pass along in these parts,
@@ -5836,8 +5882,10 @@ of "`Pilgrim`'s Progress,`" where he tried,
 I think, to awake some who had taken up a rest by the way;
 but alas! the efforts used were in vain.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 London, Sixth Month 27th, 1814.
 
 When I closed my last at Norwich,
@@ -5863,8 +5911,10 @@ which is no uncommon thing as we pass along.
 After being at Maldon yesterday morning, we came on here,
 and I attended Select Meeting this forenoon.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 London, Sixth Month 29th, 1814.
 
 Ah!
@@ -5898,8 +5948,10 @@ and the stones of the street raised up;
 for that the Lord will exalt His truth in the earth, and be glorified, etc.
 The visited children that were disposed to yield thereunto were addressed.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 London, Seventh Month 6th, 1814.
 
 Last sixth day I closed a long letter to you,
@@ -5955,8 +6007,10 @@ yet I cannot be glad in London, but am ready to say,
 Oh! the mischief of vast and populous cities; for still depravity,
 and its consequent misery, stalk before me daily.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, Seventh Month 8th, 1814.
 
 When I first went to Ireland,
@@ -5968,8 +6022,10 @@ and my spirit has rejoiced in God my Savior;
 for He has regarded the low estate of His handmaiden;`" and indeed
 I feel myself unworthy of all His mercies and of His truth.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 London, Seventh Month 12th, 1814.
 
 I have taken leave of my dearly beloved friend, J. G. Bevan;
@@ -5991,17 +6047,20 @@ and several were much broken.
 In the evening there were not less, I fully believe, than eighteen hundred people,
 and many went away for lack of room.
 
-Uxbridge.--Many have been my conflicts in that vast and populous city (London);
+_Uxbridge._--Many have been my conflicts in that vast and populous city (London);
 now I have left it, and my poor mind and body need rest.
 
 I heard on second day that Thomas Scattergood was no more.
 He was only four days ill: his disorder was a fever.
 He was mostly sensible.
 
+[.letter-heading]
 To Joseph G. Bevan.
 
+[.signed-section-context-open]
 Uxbridge, Seventh Month 15th, 1814.
 
+[.salutation]
 My Dearly Beloved Friend J. G. B.,
 
 When we parted, I did not expect so soon to address you,
@@ -6043,10 +6102,13 @@ The time approaches, and the thing is awful.
 I must take my leave, being, in more affection than I can convey through this medium,
 yours,
 
+[.signed-section-signature]
 S+++.+++ Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 1814.
 
 You asks, am I acquainted with feelings of fear, etc., on waking,
@@ -6058,8 +6120,10 @@ so I would not have you take too much notice of these feelings, only,
 when a thing is comfortably concluded on, leave it so;
 this will save you a deal of unprofitable thought.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 High Wycombe, Seventh Month 16th, 1814.
 
 We arrived here last evening, having taken a solemn leave of dear John Hull.
@@ -6082,8 +6146,10 @@ is particularly seasonable.
 May it please the Most High to hear your prayer, and grant me preservation,
 even for His own blessed cause`' sake.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Buckingham, Seventh Month 21st, 1814.
 
 Thinking of Burford is a great lesson to me, for had I not been in too great a hurry,
@@ -6121,8 +6187,10 @@ and to attempt to speak in the name of the King immortal; besides I am but weakl
 yet I know that if the Lord require this of me,
 He can strengthen mind and body--to Him I desire to look.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Worcester, Seventh Month 26th, 1814.
 
 The public meeting at Buckingham was not so large as was expected,
@@ -6150,8 +6218,10 @@ On our getting to Worcester I went to bed, but got up in the evening,
 and appointed a meeting for yesterday at ten o`'clock;
 it was attended by Friends and some others, and was a solemn, heart-tendering season.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Gloucester, Seventh Month 29th, 1814.
 
 We had the meeting at Tewkesbury as proposed; a few attended who were not Friends,
@@ -6169,8 +6239,10 @@ during the whole of the time we were assembled.
 Probably this may be nearly or quite the last time I address you,
 till seeing you once more.
 
+[.letter-heading]
 To a Niece who had the Care of her Children in her Absence from Home.
 
+[.signed-section-context-open]
 Swansea, Eighth Month 2nd, 1814.
 
 It is matter of great consolation to my mind that you are preserved in usual health,
@@ -6187,8 +6259,10 @@ I hope they are willing to resign their dear father to come over the great deep,
 to be engaged in the service of their Heavenly Father, and to help their poor mother,
 who likewise desires to be given up to serve the Lord.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Gisborough, Ninth Month 14th, 1814.
 
 I often feel desirous that you yourself may be comforted,
@@ -6203,10 +6277,13 @@ Oh! what a blessing is health!
 I am a poor, tribulated, absent sister, separated from my dear children and family, in,
 what at least I believe to be, the bonds of the Gospel.
 
+[.letter-heading]
 To A. E. and A. Grubb.
 
+[.signed-section-context-open]
 +++[+++Probably 1814.]
 
+[.salutation]
 My Dear Sisters,
 
 It is depressing to my feelings that we should be so separated.
@@ -6221,8 +6298,10 @@ When brought low, may we wait in faith for brighter days;
 so will the Sun of righteousness arise, in His own due time,
 and dissipate all the clouds of dismay; yes, He will come "`with healing in His wings.`"
 
+[.signed-section-closing]
 Your affectionate sister,
 
+[.signed-section-signature]
 S+++.+++ Grubb.
 
 To her Husband.
