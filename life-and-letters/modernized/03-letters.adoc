@@ -6304,8 +6304,10 @@ Your affectionate sister,
 [.signed-section-signature]
 S+++.+++ Grubb.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Cork, First Month, 1815.
 
 We have got on remarkably well, and accomplished the journey by three o`'clock.
@@ -6320,7 +6322,7 @@ but if I fast from spiritual as well as temporal delight, let me fast in secret;
 I will try, as it were, to "`anoint my head and wash my face.`"
 So, my dear, if you hear that I am very cheerful, remember this resolution.
 
-First Month 15th, 1815.--M. H. is here:
+_First Month 15th, 1815._--M. H. is here:
 she supplicated at the close of the meeting yesterday,
 that it would please the Almighty to be with us during this Quarterly Meeting; and,
 with respect to this morning, it has seemed to be the case,
@@ -6332,8 +6334,10 @@ some confusion would cover me, for interrupting the current of life,
 in the stream of ministry, which I thought I saw flowing sweetly,
 proceeding from the Source of all good; so I ventured on my feet.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Cork, First Month 17th, 1815.
 
 I got through my little say, respecting my late journey, to the satisfaction of my mind;
@@ -6356,8 +6360,10 @@ and seemed to bring with it great solemnity.
 I came in here directly on our breaking up, and wrote this,
 my hand and heart still trembling with what I have felt this day.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Dublin, Third Month 6th, 1815.
 
 I think I can hardly do less than acknowledge to
@@ -6379,8 +6385,10 @@ desiring to be fully subject thereunto--surely nothing
 else can keep us in the way in which we should go.
 Oh! how awful a thing it is to move in the manner which we profess to be called to.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Dublin, Second Month 27th, 1816.
 
 My dear mother`'s hope is similar to our own, that we may get well through here,
@@ -6392,8 +6400,10 @@ Oh! it is an awful thing to visit families: no one knows what I pass through,
 nor haw languid I feel; yet, at seasons, I trust I shall be brought to acknowledge,
 with respect to this engagement, "`It is the Lord`'s doing, and marvelous in my eyes.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Dublin, Third Month 11th, 1816.
 
 Yesterday was pretty fully occupied, for we had a public meeting at Meath Street,
@@ -6415,10 +6425,13 @@ They went away in an orderly manner.
 It was a very large meeting,
 and in a part of this great place where the people are least civilized.
 
+[.letter-heading]
 To Abigail Grubb.
 
+[.signed-section-context-open]
 Dublin, Third Month 16th, 1816.
 
+[.salutation]
 My Dear Sister,
 
 Often, since coming here, I have thought of writing to you, but was discouraged,
@@ -6473,12 +6486,16 @@ It appears that we have paid one hundred and forty visits in families,
 and yet there remain above forty.
 I was thinking that may be tomorrow week would clear us out.
 
+[.signed-section-closing]
 Your sympathizing and affectionate sister,
 
+[.signed-section-signature]
 S+++.+++ Grubb.
 
+[.letter-heading]
 To a Niece.
 
+[.signed-section-context-open]
 Dublin, Fourth Month 29th, 1816.
 
 Please give my dear love to brother and sister Davis;
@@ -6489,8 +6506,10 @@ when almost ready to conclude myself fainting--tell him so, and he will understa
 Oh! if we are members of the one mystical body, we shall feel with and for each other,
 in seasons of sore trial.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Belfast, Ninth Month 16th, 1816.
 
 Yesterday we had as large a public meeting as I ever remember to have seen, except once;
@@ -6515,7 +6534,7 @@ The baptisms of my spirit are, at times, such as may be termed agony.
 Oh! may Divine mercy and goodness strengthen to endure hardness,
 as one who would willingly be a good soldier of Jesus Christ.
 
-Ninth Month 17th.--The meeting yesterday evening was very much crowded,
+_Ninth Month 17th._--The meeting yesterday evening was very much crowded,
 and proved another season of Divine favor.
 I was comforted in hearing the voice of my dear companion,
 and to find that his testimony had the effect of
@@ -6541,8 +6560,10 @@ for he asked that all present might be enabled to bear the cross,
 and strengthened to pursue the line of holy direction;
 alluding to the text which speaks of being strengthened out of Zion.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Dublin, Ninth Month 30th, 1816.
 
 Yours which conveyed to me the moving particulars of dear +++_______+++`'s last hours,
@@ -6567,8 +6588,10 @@ Well, my dear, she is gone; and I desire to prostrate myself, in grateful acknow
 to that Providence who has, I trust, in wisdom and mercy, taken her to everlasting rest.
 Oh! what should I do but for this consolatory hope?
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Mountmellick, Third Month 26th, 1817.
 
 It has pleased the Most High to give us great liberty of spirit in a very solemn meeting.
@@ -6583,8 +6606,10 @@ to the rejoicing of my spirit; but, my dear +++_______+++, we were not to dwell 
 we were filled to be emptied, and empty we are till again filled.
 May we wait on the unmixed and inexhaustible Fountain.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Moate, Fourth Month 4th, 1817.
 
 I cannot tell you how constantly I am thinking of you,
@@ -6615,12 +6640,16 @@ and say amen to all His dispensations.
 So, my dear, farewell in Him, who is, I believe, permitting you to be sorely tried,
 that He may bring you to a fitness to walk with Himself in white raiment.
 
+[.signed-section-closing]
 I am your truly affectionate
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Clonmel, Sixth Month 19th, 1817.
 
 However we may be drawn by our natural feelings,
@@ -6638,8 +6667,10 @@ my lot to visit within the last year and a half;
 but if an individual here and there, mercifully and peculiarly met with,
 would fully submit to the power, I believe these would have many followers.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Blenheim, near Waterford, Third Month, 1818.
 
 Well, he is gone! (Dr. Atkins) a truly valuable member of the community; happy, however,
@@ -6652,8 +6683,10 @@ and oh! shall we not earnestly desire that we likewise may so run as to obtain;
 looking steadfastly to the same power, even the Lord Jesus,
 the Author and Finisher of our faith.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Cork, Third Month 16th, 1818.
 
 It would be unnecessary for me to attempt a full
@@ -6696,8 +6729,10 @@ than in this little turn-out from home.
 Surely it is no wonder that I should be greatly afraid of missing my way,
 or letting go my hold of that wherein only there is safety.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Dublin, Third Month 28th, 1818.
 
 In the evening of yesterday a meeting was held for those not in membership with us,
@@ -6730,8 +6765,10 @@ in whom is everlasting strength.
 He is indeed worthy to be praised and trusted in.
 Everlasting high praises to His adorable Name, says my soul.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Dublin, Fourth Month 26th, 1818.
 
 Oh! that my dear children may love and fear God.
@@ -6746,8 +6783,10 @@ Very few of these disciples appear to be left to come up to this general assembl
 but there may be hidden ones, who, in the fulness of time,
 may be prepared by the same Divine Power to confess Christ before men.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Clonmel, Fifth Month 4th, 1818.
 
 The important business I communicated to you, as we walked together,
@@ -6776,8 +6815,10 @@ choose rather to "`suffer affliction with the people of
 God,`" than to enjoy "`the pleasures of sin`" for a moment;
 having an eye to the glorious recompense of reward.
 
+[.letter-heading]
 Martha Ussher to John and Sarah Grubb.
 
+[.signed-section-context-open]
 Waterford, Eighth Month 29th, 1818.
 
 My dear and valued friends John and Sarah Grubb will, I hope, excuse the liberty I take,
@@ -6804,16 +6845,25 @@ With dear love to S. R., to your daughter, and Jonathan, I remain, my dear frien
 in affection that unites beyond the narrow bounds of this life,
 and that distance cannot lessen,
 
+[.signed-section-closing]
 Your friend,
 
+[.signed-section-signature]
 Martha Ussher.
+
+[.postscript]
+====
 
 I purpose returning to Cappagh on fourth day.
 Had time permitted, what a favor my dear husband would have esteemed it,
 to have seen you both.
 
+====
+
+[.letter-heading]
 Sarah Grubb to her Sister-in-law, Mary Davis.
 
+[.signed-section-context-open]
 Swansea, Ninth Month 5th, 1818.
 
 I assure you, that with respect to yourself and some others in dear Clonmel,
@@ -6829,8 +6879,11 @@ in parting with our friends;
 otherwise our poor minds could scarcely have sustained the trial.
 I have frequently thought of S. R. G.`'s poem,
 
-__"`How can my pen portray the deep distress,
-How paint the anguish of a heart that bled?`"__ etc.
+[verse]
+____
+How can my pen portray the deep distress,
+How paint the anguish of a heart that bled? etc.
+____
 
 Even in getting to my dear friends and old acquaintances here,
 I still feel like a stranger in a strange land with my family;
@@ -6844,8 +6897,10 @@ friends in this time of peculiar trial of faith.
 Well, my dear sister, I hope you and some others will be enabled to pray for us, that,
 in all, the Great Name may be exalted.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Bury, Tenth Month 3rd, 1818.
 
 It must be some departure in ourselves from the all-preserving influence of truth,
@@ -6868,8 +6923,10 @@ Nothing could support me in the tender regret I feel in this separation,
 but a consciousness that it is in pursuit of duty,
 and in order that the day`'s work may keep pace with the day.
 
+[.letter-heading]
 To Mary Davis.
 
+[.signed-section-context-open]
 Bury, Eleventh Month 28th, 1818.
 
 My beloved sister will perhaps think me long silent,
@@ -6943,8 +7000,10 @@ This living substance, this flesh and blood, which gives life, is worth waiting 
 My dear sister, farewell in Him, who only can communicate it;
 and may you all farewell in Him.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Haverhill.
 
 Our minds have been revived this evening,
@@ -6955,8 +7014,10 @@ and leads into the same obedience unto life.
 We saw a dear child about eight years old, in tears this afternoon,
 while Gospel ministry flowed to her and the rest of the family, as a flowing stream.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Wellingham, near Lewes, 1818.
 
 Never admit a thought that it will do for you to pass along as others do,
@@ -6991,8 +7052,10 @@ yet as being content in the will of my Heavenly Father,
 who best knows when and how to dispense the riches of His grace.
 Oh! that my eye may be ever turned to Him, and my dependence only on His arm of salvation.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Bury, Second Month 1st, 1819.
 
 Remember that the promises of God are not yes and no, but they are yes and amen forever.
