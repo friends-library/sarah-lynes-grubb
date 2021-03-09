@@ -12513,8 +12513,10 @@ in that power which puts forth in the work,
 I have a humble trust that it will be given in the needful hour.
 The everlasting Fountain of life and light is my sole dependence.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, First Month 13th, 1833.
 
 We hope thou wilt be able to get through this perplexing
@@ -12529,8 +12531,10 @@ and I should be sorry to have thy mind too much occupied
 or absorbed in the things of time.
 I take a tender leave of thee, commending thee to the care of Israel`'s Shepherd.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, Second Month 5th, 1833.
 
 On First day we had the company of dear Daniel Wheeler at both meetings.
@@ -12557,8 +12561,10 @@ that although we cannot see the good of our crosses and exercises at the time,
 yet those who trust in the Lord find eventually that
 things come round to their real benefit.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month, 1833.
 
 We had a very large meeting at Westminster on First day evening: it was,
@@ -12590,8 +12596,10 @@ in crosses and trials that may yet await me.
 Surely He knows best what is meet for us,
 and what will eventually promote our truest interests!
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Third Month, 1833.
 
 Thy letter received today is indeed a comfort to us:
@@ -12602,10 +12610,13 @@ I must assure thee that I am ever with thee in my mind; but, what is better,
 I humbly trust that our heavenly and omnipotent Father watches over us all for good.
 May we remember one another before the throne of His mercy!
 
+[.letter-heading]
 To a Friend who was Becoming Conspicuous in Political Agitation and Excitement.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month 2nd, 1833.
 
+[.salutation]
 Dear Friend,
 
 Some unknown hand having sent us a paper, in which is an address signed +++_______+++,
@@ -12651,12 +12662,16 @@ My husband unites with me in this communication to thee;
 desiring it may be received as a solemn warning to consider and amend thy ways.
 So saith
 
+[.signed-section-closing]
 Thy sincere friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Third Month 19th, 1833.
 
 May Divine Love draw thee into a preference of heavenly
@@ -12670,8 +12685,10 @@ the "`fruitful bough by a well;`" and how this Joseph was shot at,
 and deeply tried for a season, but eventually triumphed, and was abundantly blessed.
 I hope it will be thy case, and that thou wilt increasingly become a blessing.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Fifth Month 13th, 1833.
 
 Thy sweetly acceptable letter met my eye on returning from town, where we had been;
@@ -12699,6 +12716,7 @@ having to speak largely in our own meeting, previously to entering the graveyard
 and then in the evening we had a very great public meeting at Hackney.
 I believe it was held under right influence, and I feel satisfied.
 
+[.letter-heading]
 To the Same.
 
 Well, my dear +++_______+++, I have often told thee, that as thy heart, thy all,
@@ -12712,6 +12730,7 @@ therefore it behooves us to seek ability from the Fulness of strength,
 to make the free-will offering in this way; so shall we receive grace and glory,
 and no good thing will be withheld from us.
 
+[.letter-heading]
 To the Same.
 
 So, my dear +++_______+++,
@@ -12724,8 +12743,10 @@ and thou wilt clearly discover that His everlasting arms are underneath;
 that thy drooping spirit has been sustained by the invisible power of thy Redeemer,
 thy Savior.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, 1833.
 
 For weeks past I have expected to hear something of thee and thine,
@@ -12744,8 +12765,10 @@ pearl of great price;`" while the seemingly favored ones,
 who may abound in the outward, prove, that without the one thing needful,
 the soul wanteth; yea, is in leanness, in poverty.
 
+[.letter-heading]
 To a Family who Lived Near J. and S. Grubb, at Stoke Newington.
 
+[.signed-section-context-open]
 1833.
 
 Sarah Grubb takes the liberty, in christian love, through this medium,
@@ -12774,8 +12797,10 @@ by Him whose is "`the earth and the fulness thereof; the world,
 and they that dwell therein;`" believing, that as His counsel is humbly implored,
 all will eventually be well.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Colchester, 1833.
 
 We have got through another public meeting,
@@ -12792,11 +12817,14 @@ be constrained to engagements so truly awful!
 Some remarked to thy father how much they wondered at the stillness of such a congregation;
 saying they never knew the like before.
 
+[.letter-heading]
 From Sarah Grubb To John Wilbur.
 
+[.signed-section-context-open]
 Stoke Newington, 5th, of 6th mo.
 1633.
 
+[.salutation]
 Dear and Valued Friend,
 
 My address to thee must be short,
@@ -12836,10 +12864,13 @@ Hoping we may be near in spirit still,
 
 I remain thy afflicted and affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To one Deeply Tried.
 
+[.signed-section-context-open]
 Sixth Month, 1833.
 
 The state of the poor weak frame sometimes occasions those dispensations,
@@ -12864,8 +12895,10 @@ Look at the text alluded to above, which speaks of the armour.
 And now I commend thee to Him who carried our sorrows and bore our griefs,
 in a body of flesh, and who loves thee, my dear and precious +++_______+++.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Sixth Month 6th, 1833.
 
 If we had been much edified together, the fatigue, etc.,
@@ -12894,10 +12927,13 @@ when people scarcely left her any time for rest and quiet;
 but we may retire to the measure of the Divine gift in ourselves on all occasions,
 and wait upon the "`still, small voice`" of truth, which is a great mercy.
 
+[.letter-heading]
 To Mary Capper.
 
+[.signed-section-context-open]
 Stoke Newington, Sixth Month 10th, 1833.
 
+[.salutation]
 My Dear Friend,
 
 Thy salutation of love by letter is precious to us,
@@ -12975,10 +13011,13 @@ from all that is found in the apostacy, will be realized to thee--"`Lo,
 I am with you alway, even unto the end of the world.`"
 Amen, saith thy ever affectionate friend
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Eighth Month 13th, 1833.
 
 At Chelmsford I was disposed to be found simply attending
@@ -12992,10 +13031,13 @@ I was full of heaviness before this meeting, but came back to the room where,
 three hours before, I had groaned, and sighed, and prayed,
 with a heart now replenished with gratitude and praise.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, near Colchester, Ninth Month, 1833.
 
+[.salutation]
 My Dear Friend,
 
 Thy interesting and sisterly communication of last month,
@@ -13036,12 +13078,16 @@ Truth, however, will obtain the victory in the end, and triumph over all.
 Oh! that those who continue to hold it most dear,
 may never barter it for any consideration whatever.
 
+[.signed-section-closing]
 I am thy sympathizing and affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, Ninth Month 26th, 1833.
 
 It was peculiarly joyous to me to find, by thy letter,
@@ -13084,8 +13130,10 @@ As regards the Women`'s Meeting, I have brought the burden of the word back agai
 although I felt like a vessel wanting vent;
 yet I do feel conscious of having endeavored to stand faithful.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, Tenth Month 21st, 1833.
 
 Some do indeed appear to be followed by trials and crosses attendant on a state of probation,
@@ -13121,8 +13169,10 @@ Ah!
 He will in due time "`arise,`" and evidence that the cry of the poor,
 and the sighing of the needy, is not in vain.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Sudbury, Eleventh Month 19th, 1833.
 
 No doubt you remembered us and our solemn engagement.
@@ -13142,8 +13192,10 @@ but I rejoice that you are favored with a just sense,
 that all these things are under the control of that
 wisdom and power that is inscrutable to us.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Stoke Newington, Twelfth Month, 1833.
 
 This day, on returning from a meeting by +++_______+++, like a conclusive Quarterly Meeting,
@@ -13172,8 +13224,10 @@ the vocal engagements were chiefly by +++_______+++and +++_______+++.
 I have been wholly shut up except in the Select Meeting,
 but I quite believe I am in my place.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Twelfth Month, 1833.
 
 I fear, lest by the powers properly belonging to the mere man,
@@ -13214,8 +13268,10 @@ a noisome pestilence walking in darkness--more to
 be dreaded than that which laid low the earthly tabernacle,
 and brought it to the silent grave.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, Twelfth Month 29th, 1833.
 
 Poor Daniel Wheeler has been tossing about with contrary winds for many weeks,
@@ -13238,8 +13294,10 @@ ultimate good of those who seek His guidance,
 and who love Him as thou desirest to do.
 Farewell for the present.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stoke Newington, First Month, 1834.
 
 I hope in two or three weeks to be with you again,
@@ -13265,17 +13323,21 @@ and doth not withhold any good thing "`--anything that is really good for us.
 
 Let us, as thou sayst, "`number our remaining blessings;`" yea, may we not forget--
 
-"`E`'en crosses from His sovereign hand,
-
-Are blessings in disguise.`"
+[verse]
+____
+E`'en crosses from His sovereign hand,
+Are blessings in disguise.
+____
 
 I shall be glad, I think, to get to quiet Lexden;
 hoping we may be comforted in each other.
 I think of you individually, and with most tender interest;
 and I do ask a blessing for you, my dear children.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 First Month 9th, 1834.
 
 Yesterday was our Monthly Meeting.
@@ -13303,10 +13365,13 @@ We ought to wait upon the Lord on their behalf,
 in whom dear Daniel resignedly places his whole confidence,
 while yet he is much alive to his situation.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, First Month 13th, 1831.
 
+[.salutation]
 My Dear Friend,
 
 I scarcely know how to think that thou wast refreshed, and thy faith confirmed,
@@ -13344,12 +13409,16 @@ even the Lord God and the Lamb; to whom be ascribed all might, majesty, and reno
 forever and ever.
 Amen.
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 From Sarah Grubb To John Wilber
 
+[.signed-section-context-open]
 Lexden, near Colchester, 20th, of 1st mo., 1834.
 
+[.salutation]
 Mr Dear And Valued Friend,
 
 The only letter I ever received from thee bears date 8th mo., 22nd, 1833.
@@ -13578,14 +13647,19 @@ but thought for once I would make a substitute for verbally communing with a far
 yet near and dear brother.
 So fare-thee-well.
 
+[.signed-section-closing]
 I am in tender sympathy and regard, thy affectionate friend.
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To Henry Hull.
 
+[.signed-section-context-open]
 Lexden, near Colchester, Second Month 2nd, 1834.
 
+[.salutation]
 My Dear Friend Henry Hull,
 
 My husband`'s sight having failed a good deal of late,
@@ -13712,12 +13786,16 @@ even by His counsel,
 and afterwards crown all thy labors and sufferings with ineffable and eternal glory.
 So farewell, saith
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Fourth Month 29th, 1834.
 
 I sympathized with the state of thy dear mind when we parted.
@@ -13730,10 +13808,13 @@ so wilt thou marvelously be delivered from perplexity and woe,
 and the Lord will be magnified through thee, as well as in thee,
 more than has even yet been the case.
 
+[.letter-heading]
 To Mary Capper.
 
+[.signed-section-context-open]
 London, Fifth Month 27th, 1834.
 
+[.salutation]
 Dear And Precious Friend,
 
 Thy lively communication, received a few days since, has done me good.
@@ -13786,14 +13867,19 @@ and it requires not the torch of human reason to search it out.
 
 I remain, I trust in that which knows no change,
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Stock Newington, Fifth Month 29th, 1834
 
+[.salutation]
 My Dear +++_______+++,
 
 I have to acknowledge thine written on First day, which was indeed truly grateful.
@@ -13814,7 +13900,7 @@ the mode of expression to the wish of those of the old school;
 but however cloaked up, the same thing exists which prevents our being united in spirit,
 and feeling that we are each other`'s joy in the Lord.
 
-Sixth Day.--Now I have to acquaint my precious children
+_Sixth Day._--Now I have to acquaint my precious children
 with further relief being mercifully granted me,
 by a visit to the Men`'s Meeting,
 in which I had to allude to former messages being delivered there in the Great Name,
@@ -13841,14 +13927,19 @@ beyond all reading, hearsay, or study.
 I must conclude, as we are going to the last sitting of the Yearly Meeting.
 The Select Meeting tomorrow I tremble to think of.
 
+[.signed-section-closing]
 I am, most tenderly,
 
+[.signed-section-closing]
 Thy affectionate mother,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Sixth Month 3rd, 1834.
 
 Many now see their mistake in supposing that we only
@@ -13886,8 +13977,10 @@ therefore it was for me to mind my Master, while I may hear the brethren;
 and I was to be deaf and blind, save to the light that is self-evident,
 and to the voice from heaven.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Sixth Month 18th, 1834.
 
 Thine by yesterday`'s post is very interesting to us;
@@ -13900,8 +13993,10 @@ and give us to try the spirits whether they are of God.
 Let us humbly trust that all things will be for our ultimate good,
 as our hearts are really given up to the Lord.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Lexden, Sixth Month 27th, 1834.
 
 Thou wilt not be in any doubt of my bearing each of you upon my heart continually,
@@ -13922,8 +14017,10 @@ Dear Thomas Shillitoe looks poorly and low.
 I almost fear his days may be shortened by the present state of things,
 he suffers so much.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Lexden, Seventh Month 6th, 1834.
 
 I have tried how far I could visit you in mind, from time to time, in Clonmel;
@@ -13955,10 +14052,13 @@ I spoke to a friend or two of the Morning Meeting;
 suggesting the propriety of their interference;
 but it seems things are still to be let alone! "`Where are our judges and counsellors?
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, Seventh Month 27th, 1834.
 
+[.salutation]
 Oh! my dear +++_______+++,
 
 I feel good for little;
@@ -13978,8 +14078,10 @@ and strengthened for the battle.
 May Heavenly Goodness keep Ireland from the grievous snare
 that hath caught and entangled so many in this country!
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, Eighth Month 15th, 1834.
 
 My love flows freely to you, our dear friends,
@@ -14009,8 +14111,10 @@ suffer with that which is oppressed, while the spirit of Goliath vaunts itself.
 I cannot but secretly mourn at what seems to me to be holding back among you, instead of,
 as it were, "`coming up to the help of the Lord against the mighty.`"
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Eighth Month 25th, 1834.
 
 How vain are all human efforts that are now making to give people faith;
