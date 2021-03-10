@@ -16285,8 +16285,10 @@ Your affectionate friend,
 [.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To her Son.
 
+[.signed-section-context-open]
 Fourth Month 8th, 1837.
 
 You and your dear sister have my sympathy, as well as tender love;
@@ -16310,8 +16312,10 @@ We have got as far as his recal from Ireland.
 Dear young man! what true christian fortitude he possessed,
 and what devotion of heart to his Maker!
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Fifth Month 11th, 1837.
 
 I am led to enroll the prospect of recovery among the many mercies of a gracious God,
@@ -16323,8 +16327,10 @@ who has washed me in His own blood.
 Oh! eternally magnified and praised be His adorable Name!
 He would have all come to the knowledge of Himself, and be saved.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Fifth Month 15th, 1837.
 
 I am constantly thinking of you and dear +++_______+++,
@@ -16344,8 +16350,10 @@ often proves a work of considerable time; of years told over and over;
 but do not grow weary nor faint under it,
 for its blessed effects and precious fruits are worth waiting for with all perseverance.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Fifth Month 23rd, 1837.
 
 Yesterday I was very much discouraged about stopping from home,
@@ -16356,10 +16364,13 @@ Yesterday I found my way to express, in the first meeting,
 what appeared to me to apply to our state as a part of the body at large;
 and then I met our friend +++_______+++, but did not go to the second sitting.
 
+[.letter-heading]
 To the Yearly Meeting of Friends now Assembled.
 
+[.signed-section-context-open]
 1837.
 
+[.salutation]
 Beloved Friends--Brethren And Sisters,
 
 Being prevented by illness from mingling with you at the present time,
@@ -16415,10 +16426,13 @@ In that love which has, during my day, enabled me to give up my little all,
 for the sake of Christ, and His everlasting, immutable Gospel,
 I tenderly salute every one of you, and bid you farewell.
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Sudbury, 1837.
 
 Finding myself in much need of daily retirement,
@@ -16445,10 +16459,13 @@ and this Society (Friends) were alluded to as the visibly gathered Church, etc.
 In my offerings I seemed to have ability given from the Fulness of Strength,
 but still I came home with a heavy heart, finding little to console me.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Sixth Month 24th, 1837.
 
+[.salutation]
 My Dear Friend,
 
 I was so ill, both in London and since, as scarcely to be able to put pen to paper;
@@ -16508,14 +16525,19 @@ or still a little may remain to be effected,
 as the service due to a Master richly rewarding, the immortal spirit triumphs over all,
 through Him who conquered, and still is known to conquer, death, hell, and the grave.
 
+[.signed-section-closing]
 Believe me to be, very sincerely,
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, Seventh Month 17th, 1837.
 
 We do continue to love you,
@@ -16608,8 +16630,10 @@ for the deliverance of His people from whatever brings into bondage,
 and oppresses the precious seed!
 Amen.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Tenth Month 16th, 1837.
 
 Now I beg the favor of some information relative to your health,
@@ -16662,8 +16686,10 @@ for lack of that fervent charity,
 that would by no means compromise the principles held so dear by the first Christians,
 and by our early Friends, after a long and dark night of apostacy.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Earl`'s Colne, 1837.
 
 We have enjoyed each other`'s company, and taken Isaac Penington as a third.
@@ -16676,8 +16702,10 @@ I hope to be instructed.
 Nothing can exceed the kind attention of my dear friends of this house.
 May they be rewarded; as I believe what is done is truly in the name of discipleship!
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Twelfth Month 23rd, 1837.
 
 In bonds have I been most truly, and you have been bound with me, and I with you.
@@ -16724,8 +16752,10 @@ Be valiant, and fight the Lord`'s battles, in His own spirit and eternal power;
 all flesh being silent before Him.
 So dearly farewell.
 
+[.letter-heading]
 To her Son.
 
+[.signed-section-context-open]
 First Month 2nd, 1838.
 
 Well, my dear +++_______+++, I wish, with you, that our late, and indeed present trials,
@@ -16741,8 +16771,10 @@ even until break of day; and to him the language of mercy and justice eventually
 "`As a prince have you power with God and with men, and have prevailed.`"
 How encouraging to perseverance!
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 First Month 10th, 1838.
 
 I am glad you can hope for a continuance of that providence
@@ -16759,8 +16791,10 @@ So be encouraged in your holy resolutions, and the Lord bless you,
 to His own praise and your lasting peace.
 No doubt He will order your steps aright, in your looking to Him.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, First Month 14th, 1838.
 
 Oh! that the young people would pursue ardently the things that are most excellent,
@@ -16773,8 +16807,10 @@ may be first devoted to the Guide of my youth,
 and Him who has been pleased to permit me to experience "`great and sore
 trouble,`" but mercifully kept me from making shipwreck of faith.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Second Month 7th, 1838.
 
 Truly you are still disposed to act a sisterly part toward your poor friend.
@@ -16806,10 +16842,13 @@ that we have felt and do feel, the righteous,
 who keep their ranks under the banner of the Lamb,
 will "`shine forth as the light in the kingdom of their Father.`"
 
+[.letter-heading]
 To J. H.
 
+[.signed-section-context-open]
 Sudbury, Second Month 8th, 1838.
 
+[.salutation]
 Beloved Friend,
 
 Your unlooked for testimonial of continued remembrance and love, received yesterday,
@@ -16875,14 +16914,19 @@ and He wounds to heal.
 I have not written so long a letter these many months; the employ does not suit me well.
 I will now take leave, in the feeling that I am your sincerely affectionate,
 
+[.signed-section-closing]
 Though deeply tried friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To Mary Capper.
 
+[.signed-section-context-open]
 Clapham, Fifth Month, 1838.
 
+[.salutation]
 Dearly Beloved Friend,
 
 Your sweet and precious letter has done me good.
@@ -16929,12 +16973,16 @@ yet acknowledged to the reproofs of the great and good Spirit in their own heart
 I may now take leave of you, my very dear friend; and remain, I humbly trust,
 in the fellowship of the Gospel, and also as a partaker with you in tribulation,
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 London, Fifth Month, 1838.
 
 There was company not of our Society at dinner yesterday--five persons.
@@ -16964,8 +17012,10 @@ We dare not look for that assistance one from another, that used to be strengthe
 and yet no doubt those are still left,
 who "`maintain the unity of the Spirit in the bond of peace.`"
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Near London, Fifth Month 23rd, 1838.
 
 Yesterday afternoon it seemed required of me to express humble thankfulness that,
@@ -17013,8 +17063,10 @@ Oh! the dear servant of the Lord!
 He is as humble as a child; while capable of ascribing glory, and power,
 and dominion to the Lord God, and the Lamb that sits upon the throne.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Stamford Hill, Fifth Month 27th, 1838.
 
 Feeling inclined to attend Newington Meeting today, I am here.
@@ -17024,7 +17076,7 @@ Daniel Wheeler came to me afterwards, and asked where I was going to dine; for, 
 "`your people are my people.`"
 We were led harmoniously to labour.
 
-28th.--This morning, in meeting,
+_28th._--This morning, in meeting,
 my way opened to encourage Friends who had the weight of things,
 to be like those who bore the ark of the testimony on their shoulders,
 in the bottom of Jordan, until the people all passed over,
@@ -17036,8 +17088,10 @@ also those who have lately gone off.
 I know not how it may be: there is no house belonging to the Society large enough.
 The Men`'s Meeting is to be acquainted with it this afternoon.
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 London, Fifth Month 29th, 1838.
 
 Yesterday I was obliged hastily to close my letter.
@@ -17075,8 +17129,10 @@ I well know that all my own thoughtfulness is unavailing.
 Without Divine aid we can do nothing for His honor,
 who remains to be all-sufficient to those who humbly trust in Him.
 
+[.letter-heading]
 To a Niece.
 
+[.signed-section-context-open]
 Sudbury, Sixth Month 20th, 1838.
 
 Although I cannot doubt your being assured of my tender sympathy with you,
@@ -17105,10 +17161,13 @@ and resting forever in the arms of his adorable Redeemer?
 Do let me know how it is with you.
 I remain your affectionate, and feelingly interested aunt,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 London, probably Sixth Month, 1838.
 
 There appears to be far less disposition to oppose
@@ -17144,8 +17203,10 @@ You see I am raised up again in the service of my Great Master,
 to whom I desire to devote my failing energies,
 as I humbly trust the prime of my poor day has been His.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Seventh Month 23rd, 1838.
 
 The parcel from my beloved friend came to hand on seventh day evening,
@@ -17177,8 +17238,10 @@ that the ear may be open to the discipline of the cross of Christ.
 May patience yet have her perfect work, that the whole will of God may be wrought out,
 to His glory who works all in all, and to the peace of the soul panting after true rest.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden, Eighth Month 9th, 1838.
 
 Will my beloved friend excuse my anxiety to know how you are getting on?
@@ -17217,8 +17280,10 @@ and oh! when obtained, how does it prove like a harbour of safe anchorage,
 after being tossed with tempest, and bereaved of comfort;
 and how is the land that was far off, now seen with an eye of faith!
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Lexden Mill, Ninth Month 13th, 1838.
 
 Day after day have I been engaged to seek the Lord on behalf of your son;
@@ -17270,8 +17335,10 @@ and how interesting to me was the parting with some in particular.
 even things whereby one may edify another.
 May these things be more and more in the ascendancy with each of us!
 
+[.letter-heading]
 To a Niece.
 
+[.signed-section-context-open]
 Lexden, Ninth Month 16th, 1838.
 
 It is with much concern I find you are still disposed to dwell
@@ -17307,14 +17374,19 @@ being "`chastened and not killed,`" we should be the more prepared to cleave to 
 as our Heavenly Father, and cry to Him,
 in the language of "`Abba;`" being His adopted ones, and dearly beloved of Him.
 
+[.signed-section-closing]
 Your truly affectionate aunt,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To her Son and Daughter J. and E. G., Shortly After Their Marriage.
 
+[.signed-section-context-open]
 Sudbury, Tenth Month 27th, 1838.
 
+[.salutation]
 My Dear J. and E.,
 
 Having been but poorly since my return home,
@@ -17380,9 +17452,10 @@ Do, my dear children, watch over your own hearts and one another for good.
 And the God of Jacob defend and bless you, and the Almighty Helper of Joseph be with you.
 Amen, says your affectionate mother,
 
+[.signed-section-signature]
 S+++.+++ G.
 
-Without date.--It seems to me that our Heavenly Father
+_Without date._--It seems to me that our Heavenly Father
 has a gracious regard towards you both:
 the feeling was precious to me under your roof.
 Trials we must all have in this probationary state,
@@ -17394,10 +17467,13 @@ Farewell, my dear children.
 
 Your ever sympathizing and affectionate mother,
 
+[.signed-section-signature]
 S+++.+++ G.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Eleventh Month 20th, 1838.
 
 Many times, both by day and by night,
@@ -17473,8 +17549,10 @@ or lasting and solid satisfaction,
 out of dedication to Him to whom we owe our life and breath.
 So farewell.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Twelfth Month 30th 1838.
 
 It is with much concern we find that dear +++_______+++ is so unwell.
@@ -17513,8 +17591,10 @@ Oh! what a mercy that His holy bosom is the repository of all our sorrows and pe
 My prayers are to the Source of all strength and consolation,
 that He may be your sufficiency.
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 First Month 4th, 1839.
 
 What you have, remember you have received; if indeed, it be of that which is good;
@@ -17534,10 +17614,13 @@ a highly favored people, are in a wandering state from their allotted sphere.
 All this is for lack of abiding in true humility of heart,
 and is a great grief to the little, lowly ones.
 
+[.letter-heading]
 To One who Took a Prominent Part in the Secession From "`Friends,`" at the Time of Beaconism.
 
+[.signed-section-context-open]
 Sudbury, First Month 13th, 1839.
 
+[.salutation]
 To +++_______+++.
 
 You were as a star in the firmament; not of the first magnitude, yet,
@@ -17591,10 +17674,13 @@ in mourning over your state, both day and night, before the Lord;
 in whom I long that peace and rest may be found by each of us.
 Amen, says your true friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Second Month 6th, 1839.
 
 We want often to pass through the fire, and through the floods,
@@ -17613,8 +17699,10 @@ and for the promotion of the most glorious and worthy cause on earth.
 Oh! may He prosper the work of the hands of all who wait for His qualifying power:
 living in Him spiritually; moving in Him; having their being in Him.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Second Month 16th, 1839.
 
 I feel much for my dear husband and H., in concluding to leave them for a season;
@@ -17643,8 +17731,10 @@ May you be of those who abundantly labour;
 who receive wages from the all-beneficent Rewarder, and who gather fruit to life eternal!
 Amen.
 
+[.letter-heading]
 To her Son.
 
+[.signed-section-context-open]
 Second Month 20th, 1839.
 
 Having this morning received rather a poor account of you and E.,
@@ -17699,8 +17789,10 @@ for the prize of your high calling of God in Christ Jesus.
 So, my precious J., farewell.
 My dear and best love to E., who will take her share of this.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Second Month 27th, 1839.
 
 Remember that my mind is constantly with you,
@@ -17719,16 +17811,20 @@ and sore exercise of faith and patience.
 How unspeakably glorious must be the crown he now inherits forever and ever,
 after bearing his cross so faithfully to the end of time!
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Clapton, probably Third Month, 1839.
 
 I am much better, which, with other favors,
 demands gratitude to an all-gracious Providence--
 
-"`Good, when He gives, supremely good;
-
-Nor less when He denies.`"
+[verse]
+____
+Good, when He gives, supremely good;
+Nor less when He denies.
+____
 
 My chief prayer for myself is, to be endued with a meek and quiet spirit,
 in which I can say, "`Not my will, but Yours be done,`" oh! my Heavenly Father!
@@ -17783,8 +17879,10 @@ of the Spirit of truth in his own heart;
 and was kept from running after the "`lo! heres,`" etc.;
 and is still afraid of looking to man, either by books or otherwise.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Clapton, Third Month 19th, 1839.
 
 On First day I attended Newington Meeting: was largely engaged in the ministry,
@@ -17798,8 +17896,10 @@ It is indeed good to be "`Worm Jacob,`" waiting, again and again,
 for the time when the joyful language is heard, "`Fear not, for I am with you,
 to deliver you.`"
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Clapton, Third Month, 1839.
 
 I went to the Quarterly Meeting "`in weakness, and in fear,
@@ -17816,8 +17916,10 @@ and to supplicate for the hastening of the day when all
 it being established on the top of all the hills.`"
 This address was short and living; ending in praises, yes, high praises; even Alleluias.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Fourth Month 11th, 1839.
 
 Before receiving your sorrowful letter of yesterday, it was in my heart to write this day.
@@ -17848,8 +17950,10 @@ We cannot but feel deeply interested about you, while we may be ready to say,
 But oh!
 I humbly trust He does and will help--most effectually.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Fourth Month, 1839.
 
 I want to mention what is in prospect for me.
@@ -17866,8 +17970,10 @@ It is now time to get ready for meeting.
 Farewell,
 my very dear +++_______+++. May the "`everlasting arms`" be underneath in all your exercises.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Dublin, Fourth Month 30th, 1839.
 
 Oh! heaven is worth attaining through all that prepares for an inheritance there;
@@ -17884,7 +17990,7 @@ Many of a more private character have also fallen to my lot, both in England and
 Sometimes this poor frame is much exhausted, but on the whole,
 I get on with more strength than I could reasonably have expected.
 
-Fifth Month 1st.--We are just come from the usual meeting for worship, which was long,
+_Fifth Month 1st._--We are just come from the usual meeting for worship, which was long,
 and from some circumstances, rather trying.
 There is, however, a weighty body of Friends still in this land,
 who have at heart the prosperity of truth,
@@ -17902,8 +18008,10 @@ when they saw themselves spared from that which prevailed so much to our hurt in
 If ever there was a time in which "`he that thinks he stands`"
 should "`take heed lest he fall,`" it is peculiarly needful now.
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Dublin, Fourth Month 30th, 1839.
 
 I feel sincerely for your dear mother in her afflicted condition of body,
@@ -17927,8 +18035,10 @@ Our sufferings, while pressing heavily on us, seem more than momentary;
 but will doubtless, when eternal joy and peace are about to take their place,
 prove short indeed.
 
+[.letter-heading]
 To her Husband.
 
+[.signed-section-context-open]
 Dublin, Fifth Month 1st, 1839.
 
 First day was a memorable one,
@@ -17953,12 +18063,15 @@ It seems indeed, as dear S. remarks,
 as if Divine Providence raised me up for this service; and He makes the way for me.
 Cousin S. F. is truly hospitable and kind; we have every accommodation.
 
+[.letter-heading]
 To +++_______+++, a Friend in Ireland,
 who Took a Conspicuous Part in the Secession From "`Friends`" in That Country,
 About This Time.
 
+[.signed-section-context-open]
 Dublin, Fifth Month 7th, 1839.
 
+[.salutation]
 Dear +++_______+++,
 
 How is it that we have not (as heretofore) enjoyed
@@ -18013,14 +18126,19 @@ Take not yourself away from us as a Society,
 but retrace those steps that have caused you to turn your back on the fold.
 So dearly farewell.
 
+[.signed-section-closing]
 I remain, with love unfeigned,
 
+[.signed-section-closing]
 Your sincere friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 London, Fifth Month, 1839.
 
 Ah! my dear +++_______+++, you are indeed mistaken.
@@ -18065,10 +18183,13 @@ keeping our habitations in the truth,
 and "`committing ourselves to the Lord in well-doing, as unto a faithful Creator.`"
 So farewell, my long-loved friend, and believe me to be sincerely yours,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Sixth Month 8th, 1839.
 
 I seem capable of little that is likely to interest others,
@@ -18101,8 +18222,10 @@ that they are not likely again to come out of captivity, or see their native cou
 My spirit is made sorrowful too, on account of the absence of tenderness in our youth.
 Where is the heavenly dew that did once descend on the branches of our vine?
 
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 Sixth Month 30th, 1839.
 
 I think of you as one moving in the sphere allotted in best wisdom, and therefore,
@@ -18118,8 +18241,10 @@ although as through a glass darkly, into the world of joy unspeakable, and full 
 where all tears are forever wiped from the eyes, by the hand of the Lord God Almighty.
 Farewell.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Seventh Month 12th, 1839.
 
 It seems peculiarly inscrutable to me that we should
@@ -18142,10 +18267,13 @@ and for the lot of our inheritance.
 
 Be assured you are not forgotten by your tenderly and deeply interested mother,
 
+[.signed-section-signature]
 S+++.+++ G.
 
+[.letter-heading]
 To one of her Children.
 
+[.signed-section-context-open]
 Brecon, Seventh Month 18th, 1839.
 
 The Select Meeting was held last evening.
@@ -18154,7 +18282,7 @@ Friends are very kind and attentive to poor me.
 I write this with a trembling hand and heart;
 the weight of religious exercise is awfully heavy.
 
-Hereford, 19th.--There were three religious opportunities at the inn,
+_Hereford, 19th._--There were three religious opportunities at the inn,
 with the great company at Brecon: it was, on the whole, a time of suffering to me.
 There seems to be cause for mourning, within the compass of this General Meeting.
 My spirit did not rise altogether superior to the oppression felt;
@@ -18169,8 +18297,10 @@ I am now writing in a very beautiful house, situated in a spot truly delightful,
 above the town; commanding a very fine view of both town and country.
 What rich scenery there is in this county of Hereford!
 
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Worcester, Seventh Month 21st, 1839.
 
 At L+++_______+++ Friends seem to be of the old school.
@@ -18182,8 +18312,10 @@ and what is remarkable, without knowing that,
 I had to speak particularly on the ministry of the Gospel;
 yet somehow I have not been able fully to lay down my burden there or elsewhere, lately.
 
+[.letter-heading]
 To +++_______+++.
 
+[.signed-section-context-open]
 Sudbury, Ninth Month 10th, 1839.
 
 Great is my desire that the dealings of Infinite
