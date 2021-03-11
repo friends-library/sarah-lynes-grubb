@@ -20573,7 +20573,8 @@ When heaven seems brass, and earth, with iron bars,
 Doth hold its cheering goodliness from us,
 ____
 
-then may we not forget that the trial of our faith
+[.no-indent]
+&hellip;then may we not forget that the trial of our faith
 is much more precious than of gold that perisheth,
 even though it be tried with fire; yea,
 and it is well to remember that the same things happen
