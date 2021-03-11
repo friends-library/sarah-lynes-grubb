@@ -1665,10 +1665,7 @@ I believe it was a favored season; her mind pretty comfortably relieved,
 but she is withal, so worn down, she concludes to rest today.
 
 [.signed-section-closing]
-I conclude in haste, and remain
-
-[.signed-section-closing]
-Your affectionate husband,
+I conclude in haste, and remain your affectionate husband,
 
 [.signed-section-signature]
 John Burlingham.
@@ -2066,10 +2063,7 @@ Friends think our having been so exposed today, will bring very many to us tomor
 we know we are nothing out of holy help, so must leave all, if we can, to this power.
 
 [.signed-section-closing]
-Dearly farewell all, as if named,
-
-[.signed-section-closing]
-Your truly affectionate
+Dearly farewell all, as if named, your truly affectionate
 
 [.signed-section-signature]
 S+++.+++ Lynes.
@@ -3724,10 +3718,7 @@ Although I have written as fast as I could, I have met with many interruptions.
 This is not much better than the last.
 
 [.signed-section-closing]
-I am
-
-[.signed-section-closing]
-Your truly affectionate daughter,
+I am your truly affectionate daughter,
 
 [.signed-section-signature]
 S+++.+++ Lynes.
@@ -4350,7 +4341,10 @@ Without Him we are nothing, and can do nothing.
 
 I have written my beloved mother a long letter,
 and may now close it with bidding you and yours most dearly farewell,
-and am Your truly affectionate daughter,
+and am
+
+[.signed-section-closing]
+Your truly affectionate daughter,
 
 [.signed-section-signature]
 Sarah.
@@ -4398,10 +4392,7 @@ may continue near for our help and preservation, in and through every situation 
 and finally give us an inheritance among those that are sanctified.
 
 [.signed-section-closing]
-I am
-
-[.signed-section-closing]
-Your affectionate friend,
+I am your affectionate friend,
 
 [.signed-section-signature]
 John Grubb.
@@ -4736,10 +4727,7 @@ I wish your husband to partake of any encouragement to perseverance, if any I ca
 With love to you both,
 
 [.signed-section-closing]
-I remain
-
-[.signed-section-closing]
-Your affectionate friend,
+I remain your affectionate friend,
 
 [.signed-section-signature]
 J+++.+++ G. Bevan.
@@ -8344,10 +8332,7 @@ and cannot see so well as when you and I were fellow-travelers,
 four and twenty years ago, but hope you can make it out, so as to understand it.
 
 [.signed-section-closing]
-I remain, with sincere regard,
-
-[.signed-section-closing]
-Your sympathizing and loving friend,
+I remain, with sincere regard, your sympathizing and loving friend,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -9197,13 +9182,7 @@ for I think we may say that the meetings yesterday closed under a precious
 sense of the goodness and power of our blessed Master.
 
 [.signed-section-closing]
-With love to you and yours,
-
-[.signed-section-closing]
-I remain,
-
-[.signed-section-closing]
-Your affectionate friend,
+With love to you and yours, I remain, your affectionate friend,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -9242,10 +9221,7 @@ salvation when outward things look gloomy,
 and to know that He makes the feet like hinds`' feet, to run the ways of His requirings.
 
 [.signed-section-closing]
-I remain affectionately,
-
-[.signed-section-closing]
-Your sincere friend,
+I remain affectionately, your sincere friend,
 
 [.signed-section-signature]
 S+++.+++ Grubb.
@@ -9611,10 +9587,7 @@ they "`shall renew their strength; they shall mount upward with wings as eagles,
 they shall run and not be weary, they shall walk and not faint.`"
 
 [.signed-section-closing]
-Dearly farewell, says
-
-[.signed-section-closing]
-Your affectionate friend,
+Dearly farewell, says your affectionate friend,
 
 [.signed-section-signature]
 S+++.+++ Grubb.
@@ -9966,7 +9939,7 @@ My Dear Friend,
 By some mistake I find we have brought away a pocket handkerchief,
 which I conclude belongs to you;
 surely you may suppose it needful to have an eye to us next time we come;
-but are we not (to use an Irish phrase) hottest thieves, as we return the goods?
+but are we not (to use an Irish phrase) _honest thieves,_ as we return the goods?
 
 It is pleasant to take a little retrospective view of our late turn-out among our friends:
 I do not love you any the less for it;
@@ -9978,10 +9951,7 @@ Let us all endeavor to make still further progress in this happy experience,
 by standing fully open to the Divine mind in all things.
 
 [.signed-section-closing]
-I subscribe myself
-
-[.signed-section-closing]
-Your--your affectionate friend,
+I subscribe myself your affectionate friend,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -10763,10 +10733,7 @@ and when it penetrated the obdurate heart,
 while in a disposition to resist its influence.
 
 [.signed-section-closing]
-With love to friends,
-
-[.signed-section-closing]
-I remain your affectionate friend,
+With love to friends, I remain your affectionate friend,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -11886,10 +11853,7 @@ and glory, in the world of spirits.
 With dearest love,
 
 [.signed-section-closing]
-I remain
-
-[.signed-section-closing]
-Your own tender mother,
+I remain your own tender mother,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -12284,10 +12248,7 @@ that they may be found walking worthy of the high vocation wherewith we are call
 With love unfeigned,
 
 [.signed-section-closing]
-I am
-
-[.signed-section-closing]
-Your sincerely attached friend,
+I am your sincerely attached friend,
 
 [.signed-section-signature]
 S+++.+++ Grubb.
@@ -13900,10 +13861,7 @@ I must conclude, as we are going to the last sitting of the Yearly Meeting.
 The Select Meeting tomorrow I tremble to think of.
 
 [.signed-section-closing]
-I am, most tenderly,
-
-[.signed-section-closing]
-Your affectionate mother,
+I am, most tenderly, your affectionate mother,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -15738,10 +15696,7 @@ in our high calling of God in Jesus Christ our Lord.
 Farewell my dear friend.
 
 [.signed-section-closing]
-I am, in much tender sympathy,
-
-[.signed-section-closing]
-Your affectionate friend,
+I am, in much tender sympathy, your affectionate friend,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -16277,10 +16232,7 @@ but I trust the inner man is renewed,
 and that his spiritual faculties are clear and vigorous.
 
 [.signed-section-closing]
-I am
-
-[.signed-section-closing]
-Your affectionate friend,
+I am your affectionate friend,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -16526,10 +16478,7 @@ as the service due to a Master richly rewarding, the immortal spirit triumphs ov
 through Him who conquered, and still is known to conquer, death, hell, and the grave.
 
 [.signed-section-closing]
-Believe me to be, very sincerely,
-
-[.signed-section-closing]
-Your affectionate friend,
+Believe me to be, very sincerely, your affectionate friend,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -18127,10 +18076,7 @@ but retrace those steps that have caused you to turn your back on the fold.
 So dearly farewell.
 
 [.signed-section-closing]
-I remain, with love unfeigned,
-
-[.signed-section-closing]
-Your sincere friend,
+I remain, with love unfeigned, your sincere friend,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -19241,10 +19187,7 @@ May we each be mercifully favored to hear the sentence at last, of "`Well done,
 good and faithful servant; enter into the joy of your Lord.`"
 
 [.signed-section-closing]
-I remain
-
-[.signed-section-closing]
-Your sincere and sympathizing friend,
+I remain your sincere and sympathizing friend,
 
 [.signed-section-signature]
 Sarah Grubb.
@@ -19334,10 +19277,7 @@ but I seek after "`a meek and quiet spirit,`" so high in its value.
 I am able to assume cheerfulness in demeanour, for which my mind feels truly thankful.
 
 [.signed-section-closing]
-I remain
-
-[.signed-section-closing]
-Your sincerely affectionate and obliged friend,
+I remain your sincerely affectionate and obliged friend,
 
 [.signed-section-signature]
 Sarah Grubb.
