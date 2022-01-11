@@ -1,4 +1,4 @@
-== Chapter 15. Letters from 1633--1834
+== Chapter 15. Letters from 1833--1834
 
 [.letter-heading]
 To one of her Children.
@@ -374,7 +374,7 @@ From Sarah Grubb To John Wilbur.
 
 [.signed-section-context-open]
 Stoke Newington, 5th, of 6th mo.
-1633.
+1833.
 
 [.salutation]
 Dear and Valued Friend,
