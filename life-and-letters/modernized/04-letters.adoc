@@ -1,6 +1,55 @@
 == Chapter 3. Letters from 1797--1798
 
 [.letter-heading]
+To Sarah Grubb.
+
+[.signed-section-context-open]
+Cork, Third Day Morning.
+
+[.salutation]
+My Dear Mistress,
+
+It has so turned out that I am here yet, contrary to my own and others`' expectation.
+It is not without making some attempts to get home,
+which felt so contrary yesterday to what I believed was right, that I gave it up.
+
+I am at A. H.`'s, where several friends accompanied me to call on James Abell,
+in order to fulfill a proposal I laid before Friends of the Select Meeting, last evening,
+but the morning proving so very wet, prevented it.
+I was desirous to lose no time, that I might then know whether home might be pursued.
+I thought it looked more likely on First day than now,
+when I was mercifully enabled to get considerable relief by some of the inhabitants,
+not of our Society, coming to our meeting, appointed at five o`'clock for that purpose.
+On seventh day James Abell accompanied Hannah Hatton and myself,
+to the school mentioned in my letter to you.
+The dear children (in number about thirty) behaved
+as well as any I have seen among ourselves,
+I think.
+Their governor and his two daughters sat with us: it appeared very new to them,
+but they were very kind.
+The former gave us a great charge before we went into the school-room,
+to beware that we said nothing improper;
+and told us it would be wisdom in us to let him into the secret.
+James told him it was my desire to see the children; when I said we had no secret in it,
+nor did I know that anything would be said by us;
+therefore could not tell him what might then be given us to say, if anything was.
+He expressed much satisfaction after it was over, as did his two daughters;
+but I suppose they thought it was only polite to do so, as they could make no objection.
+
+I feel not a very little about your confinement;
+perhaps in great measure occasioned by my being from home;
+but really I do not know that I could do otherwise,
+without introducing myself into a state of condemnation.
+Now all that I can say is,
+that I feel a hope of having tried to act as well as I knew how.
+I cannot see the least glimpse concerning the time of my going:
+oh that I may be preserved from anything that would obstruct the spiritual sight.
+Farewell dearly, says your
+
+[.signed-section-signature]
+S+++.+++ Lynes.
+
+[.letter-heading]
 To +++_______+++.
 
 [.signed-section-context-open]
@@ -19,7 +68,7 @@ my help must be alone in Him who is from everlasting to everlasting.
 It is time to go to meeting: this is First day--we did not go to bed till two o`'clock:
 we are at R. Benson`'s: their kindness is great.
 May you all dearly farewell; and it just arises to you, my dear,
-"`Trust in the Lord with all your heart, and lean not unto your own understanding`"
+"`Trust in the Lord with all your heart, and lean not unto your own understanding.`"
 
 [.signed-section-signature]
 S+++.+++ Lynes.
@@ -70,7 +119,7 @@ My Dear +++_______+++,
 
 I am much obliged by your intelligent letter.
 It is among my little comforts to find A. B., J. J.,
-and your dear aunt Margaret occupy with their precious gifts:
+and your dear aunt Margaret occupied with their precious gifts:
 tell dear Margaret I love her dearly, and I love all the family.
 "`Although the fig-tree shall not blossom, neither shall fruit be in the vines;
 the labour of the olive shall fail, and the fields shall yield no food;
@@ -84,7 +133,7 @@ oh! if I could convey the solicitude I feel in a
 peculiar manner for all your spiritual good,
 I should not be backward.
 May the everlasting Arm be near you all; may He sanctify the exercise begun in yours,
-and at times felt also in your dear sisters`' minds, that so, in all,
+and at times felt also in your dear sisters`' minds, that so, in _all,_
 the seed of His kingdom may so have dominion,
 that "`the glory of Lebanon may be given unto it;
 the excellency of Carmel and Sharon;`" that things in heaven, things in earth,
@@ -107,7 +156,7 @@ London, Seventh Month, 1797, First Day.
 
 It is in my heart to address you, my dear,
 not merely by way of an acknowledgment for your very
-acceptable and comfortable letter of 24th ultimo,
+acceptable and comfortable letter of 24th of last month,
 neither for one received since from +++_______+++,
 for which I feel there is abundant cause to be thankful, seeing that, between you and me,
 neither distance nor time, heights nor depths, nor anything else,
@@ -211,7 +260,7 @@ Thus He, who is everlasting in lovingkindness, either immediately or instrumenta
 gives unto us what we stand in need of; and I feel a wish you may be encouraged hereby,
 for I believe very many have been your conflicts of late, perhaps in a peculiar manner.
 I have no doubt but many are the struggles of spirit
-that many of you feel in visited Clonmel.
+that many of you feel in _visited_ Clonmel.
 I remember the conflicting meetings,
 the difficulty to get to the well of everlasting life;
 and can cordially sympathise with the little exercised flock among you,
@@ -234,7 +283,7 @@ about which I am a little encouraged,
 as Thomas Scattergood mentioned to me it was better not to urge any one; and that,
 in America, he had sometimes known it best to go out alone,
 and afterwards somebody had rightly turned up as a companion.
-He said, "`by keeping to your gift, and being helped through this journey,
+He said, "`by keeping to your gift, and being helped through _this_ journey,
 it may make you stronger for the next;`" and he expected I should be helped through.
 
 [.letter-heading]
@@ -278,7 +327,7 @@ to alight from my horse, giving a friend the trouble of getting me over a sad mi
 as well as my horse, and then lifting me up again: I confess I was ashamed afterwards,
 and thought I had lost most of my courage; but I tell them,
 I never saw such roads in Ireland.
-We were once up to our horses`' knees in mire, and at another time I leaped my horse.
+We were once up to our horses`' knees in mire, and at another time I _leaped_ my horse.
 +++[+++Here part of the letter is missing.]
 
 We went the other day to see a great woman,
@@ -305,10 +354,10 @@ yet forgotten by some of those whose desires are,
 I believe, heard in an acceptable time.
 We stayed about Shillingford a long while, and I passed through bitter conflicts;
 I dare not doubt their being altogether best for me,
-and perhaps they helped to fit for what befel me from day to day,
+and perhaps they helped to fit for what befell me from day to day,
 almost during our continuance there; for we had many public meetings,
 etc.--seventeen or eighteen since I wrote, and many among Friends,
-but have not seen it right to appoint any among the latter, except one at Buckingham,
+but have not seen it right to _appoint_ any among the latter, except one at Buckingham,
 where we also had a meeting with the inhabitants in general.
 I thought it might be safely said concerning it, the Lord`'s power was over all,
 in an extraordinary manner.
@@ -348,8 +397,8 @@ Last week my dear friend Elizabeth Roper left me, which proved a great trial, as
 for more than two months, been a tender, sympathising companion;
 but I was obliged to resign her, for she said her time was come,
 and it would be presumption in her to attempt going farther,
-though she loved me in a manner she had hardly known with any one before.
-She wept much, but I could not at all, though I felt much: however,
+though she loved me in a manner she had hardly known with anyone before.
+She wept much, but I could not at all, though I _felt_ much: however,
 another friend offered that day, who is with me now.
 I met with Ann Baker of Birmingham,
 and was not easy without telling her I wished her to consider about joining me,
@@ -556,9 +605,9 @@ while I write, all things are designed to work together for good,
 if the intention is but pure,
 and resignation to the Divine will honestly endeavored after in all things.
 I am ready to conclude, at times, I have many deaths to die,
-before the Divine will is wrought out in me; peradventure,
+before the Divine will is wrought out _in me;_ peradventure,
 in the progressive advancement of this painful, yet necessary work,
-it is that this Divine will may be wrought out by us and through us: well,
+it is that this Divine will may be wrought out _by_ us and _through_ us: well,
 Divine aid is the alone sufficiency; where else can we centre?
 unto whom shall we go?
 He has the words of eternal life, even He who speaks in righteousness,
@@ -596,14 +645,14 @@ yet can I throw myself into the arms of adorable mercy and say,
 "`There is forgiveness with You,
 that You may be feared;`" yet can I be glad in that His love unites us in spirit now,
 as it did at times, through all.
-The dear children every one, are affectionately in my thoughts, and poor +++_______+++;
+The dear children _every one,_ are affectionately in my thoughts, and poor +++_______+++;
 I wish her well, now and forever, with all my heart.
 May all the dear children cultivate truest wisdom,
 by an inward attention to its dictates: I cannot now, with pen and ink,
 say how they individually come into my thoughts.
 
 This may serve as a little testimonial of my continued, undiminished love,
-but I confess myself not equal to the expression of what my mind feels for you;
+but I confess myself not equal to the _expression_ of what my mind _feels_ for you;
 in which I bid you farewell,
 hoping it originates in something that I could not of myself manufacture.
 
@@ -682,7 +731,7 @@ until afterwards, as to who they were.
 After the opportunity in the market, S. L. found other work.
 The Methodist meetinghouse being offered,
 she did not feel freedom to go without seeing the towns-people: the offer was accepted,
-and those who belong to the meeting, say two thousand people, were within the walls.
+and those who belong to the meeting, say two thousand people, were _within_ the walls.
 Many hundreds could not get in.
 I believe it was a favored season; her mind pretty comfortably relieved,
 but she is withal, so worn down, she concludes to rest today.
@@ -699,7 +748,7 @@ Sarah Lynes To +++_______+++.
 [.signed-section-context-open]
 Dudley, Fourth Mouth 29th, 1798.
 
-Ever since I received your letter of 9th instant, I have longed to reply,
+Ever since I received your letter of 9th of this month, I have longed to reply,
 but could not till now,
 not only because of engagements to fill up my time pretty closely,
 but because of the sore exercise of my spirit from day to day,
@@ -714,7 +763,7 @@ whose hearts He has disciplined to the cross of His dear Son.
 Oh! there are seasons when my spirit bows for myself,
 and for individuals in and about Clonmel particularly,
 that we may be of those whom nothing can harm,
-because they are simply and singly followers of that which is good:
+because they are simply and singly followers of _that which is good:_
 surely this makes the life pure enough to be "`hid with Christ in God.`"
 What, surely, what can we do better,
 than seek to rely in resignation on the simple guidance of that Wisdom which is infinite?
@@ -806,10 +855,10 @@ He may be simply and singly relied upon.
 I cannot suppose but your minds are individually and unitedly exercised before Him,
 and this is precious to my soul; for if this exercise is not flinched from,
 nor mixed with the natural will and wisdom,
-it will cause all things to be sanctified unto such; so that,
+it will cause _all_ things to be sanctified unto such; so that,
 in their spiritual measures,
 the depth of that exercise will so increase as to cause a dying daily, yet living;
-and the life of these is by faith in the Son of God:
+and the life of these is by faith in the _Son of God:_
 hence these are on their way to the blessed experience
 of being filled with all His fulness:
 the mystery of the language,
@@ -922,7 +971,7 @@ singly eyeing that all-sufficient Power that has visited their souls with its il
 quickening influence; so will they go forth and "`grow up as calves of the stall.`"
 
 "`Now unto Him that is able to keep you from falling,`" I commend you, with my own soul;
-desiring that, by His witness in yourselves, you may be able to know what part of these,
+desiring that, by His witness in yourselves, you may be able to know what part of these
 lines belong to you as individuals.
 
 [.signed-section-closing]
@@ -930,53 +979,3 @@ Your true friend,
 
 [.signed-section-signature]
 Sarah Lynes.
-
-[.letter-heading]
-To +++_______+++.
-
-[.signed-section-context-open]
-Uxbridge, Sixth Month 16th, 1798.
-
-I want to repeat the assurance of my continued heartfelt solicitude for you,
-as well as to say, that I account it a favor having, previously to my leaving London,
-another written testimonial of being in your remembrance still,
-amidst your anxiety and trouble in the confusion of the land.
-I was making ready for this place when it was handed me, at Joseph Savory`'s,
-having been most of the time of our stay in London, among my dear relatives,
-when not engaged in meetings, etc.
-My heart feels, but I cannot say what, with respect to dear Ireland; and particularly,
-my endeared acquaintance are much in my thoughts: you are one of these, be assured;
-and I have prayed (if the sincere breathing of my soul may be termed so) that,
-in the Divine will,
-you may be enabled to bear your part of this heavy
-burden and heat of this day of sore tossing;
-bear it, so as to be thereby deepened in the root of everlasting life.
-Now I have not the least doubt of this being the design
-of Him who does all things right concerning you,
-although you cannot think it will be so, seeing all seems darkness and distress about it.
-Oh! learn to stand still, if you possibly can, in your habitation, that thus you may,
-in the Lord`'s time, sing of His salvation in your soul; and may it be so with you all,
-dear creatures.
-
-We went to the Monthly Meeting at Brentford; returned here, and oh! my dear,
-next day we were under the necessity of going into the market twice,
-to declare the counsel of the Searcher of hearts to the people.
-He was in this, and other things, all we needed,
-though my faith was tried to a hair`'s breadth.
-Nothing, sure, can compare with this one thing in any of our engagements; all else,
-when this is full in prospect, looks comparatively small; but we can set up our Ebenezer,
-and say, "`hitherto has the Lord helped us.`"
-May He keep us and guide us all everywhere in His counsel,
-and afterwards receive us into glory!
-
-I believe the Most High has joined my dear yokefellow and me together;
-we don`'t see light on moving from this place.
-I wish to adopt the language, "`Lord, make me quiet in your will.`"
-It is thought many people will come to meeting tomorrow.
-Oh! that I may be preserved in my right allotment!
-I feel many of you as epistles written in my heart.
-The God of all true succour be with you, now and forever, says my spirit,
-bearing up in every exercise; even so, Amen.
-
-[.signed-section-signature]
-S+++.+++ Lynes.
